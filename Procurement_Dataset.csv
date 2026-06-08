@@ -1,0 +1,1501 @@
+﻿Purchase Date;Supplier;Category;Department;Purchase Order Value;Lead Time;Savings Achieved;Payment Status
+2023-09-29;OfficePlus;Raw Materials;IT;31395;14;628;Overdue
+2024-12-12;Global Metals;Maintenance;HR;42704;24;854;Overdue
+2023-04-13;OfficePlus;Packaging;Finance;17219;11;1894;Pending
+2023-06-01;TechSource;Office Supplies;Finance;23521;24;470;Overdue
+2023-01-08;TechSource;Transportation;Operations;18937;23;1894;Pending
+2024-06-16;PackPro;Transportation;HR;24214;17;969;Paid
+2023-03-02;PrimeSupply;Office Supplies;IT;18545;19;2040;Overdue
+2023-02-14;EquipMax;Office Supplies;Production;41136;13;4114;Paid
+2023-12-01;TechSource;IT Equipment;Operations;23551;19;2591;Paid
+2023-02-03;Alpha Industrial;Office Supplies;HR;29337;29;880;Overdue
+2023-06-28;OfficePlus;IT Equipment;IT;19211;15;1921;Overdue
+2024-01-05;NovaTrade;Raw Materials;HR;19604;9;1960;Overdue
+2023-12-09;NovaTrade;Safety Equipment;Finance;16194;17;972;Overdue
+2023-06-19;EuroParts;Packaging;Finance;10962;22;219;Overdue
+2024-08-08;Global Metals;IT Equipment;HR;23131;30;2082;Pending
+2023-06-12;EquipMax;Packaging;Production;19821;20;595;Paid
+2024-10-01;PackPro;IT Equipment;Production;16559;6;1821;Paid
+2023-10-12;PrimeSupply;Transportation;IT;15786;30;789;Pending
+2024-12-04;TechSource;Office Supplies;Operations;35806;22;3939;Pending
+2023-12-13;LogiTrans;Maintenance;IT;19171;4;1342;Pending
+2023-07-05;Alpha Industrial;Maintenance;HR;48843;7;5861;Paid
+2024-11-24;EuroParts;Transportation;Finance;37531;20;2252;Paid
+2024-03-23;TechSource;Packaging;Logistics;10048;9;201;Paid
+2024-02-21;NovaTrade;IT Equipment;Operations;16001;27;1600;Paid
+2024-05-23;Global Metals;Safety Equipment;Finance;11118;5;1112;Pending
+2024-12-30;Alpha Industrial;Office Supplies;Production;7885;23;473;Paid
+2023-09-01;PackPro;Office Supplies;Logistics;33052;24;1653;Pending
+2024-11-18;PrimeSupply;Safety Equipment;Finance;4042;30;121;Pending
+2024-01-12;EquipMax;IT Equipment;Operations;17854;8;2142;Paid
+2023-11-06;EuroParts;Safety Equipment;Production;20213;8;1213;Overdue
+2024-11-27;TechSource;Maintenance;HR;42154;27;1686;Pending
+2023-06-29;TechSource;Raw Materials;IT;7797;15;390;Pending
+2023-09-11;NovaTrade;Packaging;IT;34487;6;2414;Paid
+2023-03-16;TechSource;Transportation;IT;27811;17;1669;Paid
+2024-02-11;PrimeSupply;Machinery;HR;30501;26;2135;Overdue
+2023-11-24;Global Metals;IT Equipment;IT;28287;14;1697;Pending
+2023-07-10;NovaTrade;Office Supplies;IT;15689;22;1883;Pending
+2024-11-24;EquipMax;Safety Equipment;Production;2242;24;45;Paid
+2023-04-01;TechSource;Transportation;Logistics;22966;11;1378;Overdue
+2023-03-16;PackPro;Safety Equipment;Production;6280;4;754;Paid
+2024-12-21;NovaTrade;Office Supplies;Operations;3367;30;337;Pending
+2024-03-30;NovaTrade;Packaging;Finance;40492;11;810;Paid
+2023-07-22;Global Metals;Safety Equipment;Finance;4380;14;175;Pending
+2024-08-01;Global Metals;Maintenance;Operations;47019;13;3291;Overdue
+2024-12-07;PrimeSupply;Raw Materials;Production;29875;16;598;Paid
+2023-02-20;EquipMax;Transportation;IT;10035;24;1004;Overdue
+2023-11-30;NovaTrade;Safety Equipment;Logistics;26367;23;2109;Overdue
+2024-04-22;EquipMax;Safety Equipment;Finance;45716;5;2286;Pending
+2024-06-13;PackPro;IT Equipment;Operations;38132;4;4195;Pending
+2023-10-13;Global Metals;Raw Materials;IT;19722;26;789;Overdue
+2023-07-16;Alpha Industrial;Raw Materials;Production;31422;10;3771;Paid
+2024-09-24;PackPro;Machinery;Logistics;14535;12;727;Paid
+2024-04-27;OfficePlus;Maintenance;Operations;17432;18;697;Paid
+2023-05-04;EquipMax;Safety Equipment;Logistics;41189;24;1236;Overdue
+2024-12-22;OfficePlus;Packaging;IT;40172;24;803;Overdue
+2023-08-04;Alpha Industrial;Office Supplies;HR;10639;3;213;Overdue
+2024-12-31;Alpha Industrial;Office Supplies;Production;21897;19;2409;Pending
+2024-02-16;Global Metals;Packaging;Finance;6866;7;481;Overdue
+2023-09-20;NovaTrade;Raw Materials;Logistics;22024;7;1982;Pending
+2023-06-25;OfficePlus;IT Equipment;Production;36963;5;370;Pending
+2023-09-30;TechSource;Office Supplies;Logistics;23179;24;1391;Paid
+2024-10-06;Global Metals;IT Equipment;HR;9376;19;375;Pending
+2024-04-30;PackPro;Packaging;Finance;30622;13;1837;Pending
+2023-03-05;LogiTrans;IT Equipment;Operations;25330;9;2533;Paid
+2024-08-25;LogiTrans;Office Supplies;IT;15895;7;318;Pending
+2024-12-06;Global Metals;IT Equipment;HR;28906;29;2602;Overdue
+2024-07-29;NovaTrade;Maintenance;Logistics;10832;14;1083;Overdue
+2024-10-20;TechSource;Transportation;Operations;23955;13;1437;Overdue
+2024-05-22;OfficePlus;Packaging;Operations;30985;11;1239;Paid
+2024-04-15;Alpha Industrial;Packaging;Finance;35126;10;3513;Pending
+2024-02-02;Alpha Industrial;Maintenance;IT;7656;19;153;Pending
+2023-08-27;OfficePlus;Maintenance;Logistics;29006;9;2901;Paid
+2024-03-20;OfficePlus;Machinery;Finance;8843;13;177;Overdue
+2023-03-18;Global Metals;Safety Equipment;HR;43023;8;4302;Pending
+2023-06-25;EuroParts;Maintenance;HR;49133;5;983;Pending
+2023-09-14;Global Metals;IT Equipment;Logistics;15667;23;940;Paid
+2023-06-22;PackPro;Office Supplies;Production;45715;10;1829;Overdue
+2024-02-15;LogiTrans;Safety Equipment;Operations;22865;9;1829;Pending
+2024-08-18;LogiTrans;Safety Equipment;Production;42861;16;1714;Paid
+2024-03-01;Global Metals;Office Supplies;Logistics;20491;18;1229;Overdue
+2023-04-10;Alpha Industrial;Safety Equipment;Logistics;19061;7;1906;Paid
+2023-06-04;Alpha Industrial;Maintenance;IT;21411;25;2141;Pending
+2023-06-06;Alpha Industrial;Machinery;Finance;6941;20;486;Overdue
+2024-04-19;Alpha Industrial;IT Equipment;IT;31930;29;3832;Paid
+2023-11-16;EquipMax;Transportation;Finance;38306;4;1915;Overdue
+2023-04-11;TechSource;Raw Materials;Production;28561;28;1428;Pending
+2023-03-02;PrimeSupply;Office Supplies;Production;36851;11;1106;Paid
+2024-09-26;Global Metals;Machinery;Finance;16310;17;1468;Pending
+2023-12-04;PackPro;Machinery;IT;43078;22;431;Pending
+2023-02-03;EquipMax;Machinery;Logistics;3933;4;393;Paid
+2023-02-11;EquipMax;Safety Equipment;HR;6586;19;790;Pending
+2024-02-27;OfficePlus;Maintenance;IT;34748;15;3127;Pending
+2024-09-23;Alpha Industrial;Raw Materials;Finance;26120;8;1567;Paid
+2024-08-29;NovaTrade;Packaging;HR;32975;3;1319;Pending
+2024-01-24;OfficePlus;Safety Equipment;Production;30521;6;2442;Paid
+2023-03-10;Global Metals;Office Supplies;Logistics;36300;22;4356;Pending
+2023-01-05;Alpha Industrial;Maintenance;IT;32463;7;3246;Pending
+2023-03-21;Global Metals;Packaging;Production;47696;4;3816;Paid
+2023-08-17;Alpha Industrial;Maintenance;Production;12871;27;1158;Overdue
+2023-01-29;EquipMax;Raw Materials;Operations;13163;25;921;Paid
+2024-11-20;NovaTrade;Maintenance;HR;43933;25;3515;Paid
+2024-07-14;PrimeSupply;Office Supplies;Operations;9983;28;499;Pending
+2024-09-10;EuroParts;Transportation;IT;2409;22;169;Paid
+2024-01-28;EquipMax;Safety Equipment;Logistics;25862;19;776;Paid
+2023-12-21;PrimeSupply;Safety Equipment;Finance;32054;12;1603;Pending
+2024-06-25;Alpha Industrial;IT Equipment;Operations;32950;14;1648;Paid
+2023-02-23;EquipMax;Maintenance;Operations;23334;4;1167;Overdue
+2023-10-01;Global Metals;Packaging;Finance;6066;19;364;Paid
+2023-08-16;Global Metals;Raw Materials;HR;10418;24;104;Pending
+2024-11-17;Global Metals;Packaging;Operations;38801;22;1552;Paid
+2023-05-12;LogiTrans;Transportation;Logistics;23546;10;2355;Pending
+2023-02-08;EuroParts;Raw Materials;Operations;12818;22;1282;Pending
+2023-08-22;LogiTrans;Safety Equipment;HR;38437;30;4228;Paid
+2024-12-18;EquipMax;Maintenance;Logistics;25692;19;3083;Overdue
+2023-07-11;EuroParts;Maintenance;Logistics;11922;5;596;Pending
+2023-07-20;PrimeSupply;Raw Materials;Operations;40871;23;4496;Pending
+2024-03-19;LogiTrans;Safety Equipment;IT;18146;29;181;Paid
+2023-06-29;OfficePlus;Transportation;Production;11025;14;1323;Paid
+2023-10-05;LogiTrans;Maintenance;HR;34693;9;1735;Paid
+2023-06-29;PrimeSupply;Office Supplies;Production;7308;17;219;Pending
+2023-05-29;LogiTrans;Raw Materials;Logistics;26818;16;2682;Overdue
+2024-11-12;Global Metals;Transportation;IT;37617;14;4514;Paid
+2023-02-02;PackPro;Maintenance;Production;30990;10;2169;Pending
+2024-09-14;LogiTrans;Transportation;Production;15751;17;1733;Overdue
+2023-04-13;Global Metals;IT Equipment;IT;33193;7;2987;Pending
+2024-05-11;NovaTrade;Raw Materials;Logistics;45092;9;2706;Overdue
+2024-06-22;EuroParts;Transportation;Operations;37988;12;1520;Pending
+2023-09-12;EquipMax;Machinery;Operations;8883;12;622;Paid
+2023-05-02;LogiTrans;IT Equipment;Production;33163;3;2985;Paid
+2023-05-04;PackPro;Safety Equipment;IT;33312;26;1999;Paid
+2024-10-25;PrimeSupply;Safety Equipment;Operations;17578;24;703;Pending
+2023-07-03;PrimeSupply;IT Equipment;IT;31552;9;1578;Paid
+2023-03-18;TechSource;Safety Equipment;HR;46533;14;5119;Paid
+2023-07-05;NovaTrade;IT Equipment;Production;41595;11;2080;Overdue
+2024-04-17;Global Metals;Maintenance;HR;7343;3;514;Pending
+2023-12-07;NovaTrade;Maintenance;Production;25713;18;1800;Paid
+2024-03-27;LogiTrans;Maintenance;Logistics;49169;23;3934;Overdue
+2024-07-11;NovaTrade;Packaging;HR;18150;8;1452;Overdue
+2024-11-12;EuroParts;Machinery;Logistics;7322;28;659;Overdue
+2024-01-21;NovaTrade;Raw Materials;IT;5693;8;455;Paid
+2023-04-04;LogiTrans;Packaging;Operations;4755;4;143;Paid
+2023-12-31;TechSource;IT Equipment;IT;5726;10;229;Pending
+2024-08-09;EuroParts;Packaging;HR;31673;5;1900;Paid
+2024-11-17;TechSource;Transportation;Finance;48595;4;4374;Overdue
+2023-01-28;PrimeSupply;IT Equipment;Logistics;13152;10;1578;Paid
+2023-10-23;EuroParts;Office Supplies;IT;25894;26;777;Paid
+2024-07-08;Global Metals;Maintenance;Finance;14781;10;1774;Paid
+2024-09-06;EquipMax;Machinery;IT;3348;8;134;Paid
+2023-11-22;Alpha Industrial;Machinery;Production;2835;29;312;Overdue
+2024-10-01;NovaTrade;Transportation;Logistics;43603;16;436;Overdue
+2024-03-26;EuroParts;Transportation;Finance;40140;10;4415;Pending
+2023-05-28;PrimeSupply;Maintenance;IT;18935;22;189;Overdue
+2023-05-01;PackPro;Transportation;Logistics;30240;30;3326;Paid
+2023-08-23;Alpha Industrial;IT Equipment;IT;9617;19;769;Overdue
+2023-09-04;OfficePlus;Machinery;Logistics;16359;24;1145;Pending
+2023-04-27;Alpha Industrial;Packaging;IT;49463;25;2968;Overdue
+2024-07-03;TechSource;Raw Materials;Operations;42671;9;4267;Pending
+2023-10-21;TechSource;IT Equipment;Operations;32786;21;2951;Paid
+2023-05-04;EuroParts;Office Supplies;Finance;26505;6;265;Overdue
+2023-12-19;Global Metals;Safety Equipment;Logistics;19762;20;1581;Paid
+2024-08-04;EuroParts;Transportation;IT;41419;25;3314;Overdue
+2023-09-30;Global Metals;Office Supplies;Logistics;41144;25;4114;Overdue
+2024-09-11;TechSource;Transportation;HR;39975;18;1599;Overdue
+2024-05-30;EuroParts;IT Equipment;Production;9513;21;761;Overdue
+2023-02-23;TechSource;IT Equipment;Logistics;41260;10;2063;Overdue
+2024-08-11;Alpha Industrial;Transportation;HR;29091;13;873;Pending
+2023-01-30;Alpha Industrial;Raw Materials;Operations;43704;26;1311;Overdue
+2023-05-09;EuroParts;IT Equipment;Logistics;15792;26;1105;Overdue
+2023-11-26;PrimeSupply;Office Supplies;Operations;5557;12;56;Overdue
+2024-05-22;Global Metals;Safety Equipment;Production;10945;17;1094;Paid
+2024-10-26;PackPro;Packaging;Finance;21027;27;1472;Paid
+2023-09-13;LogiTrans;Safety Equipment;HR;28286;30;1131;Pending
+2023-04-30;Global Metals;Maintenance;Finance;5994;16;180;Paid
+2023-08-25;LogiTrans;Packaging;Finance;8676;27;521;Pending
+2023-04-10;PrimeSupply;Safety Equipment;HR;30020;28;1501;Paid
+2024-02-01;EquipMax;Maintenance;Logistics;7515;30;676;Overdue
+2024-08-24;Alpha Industrial;Safety Equipment;IT;33423;25;1003;Pending
+2023-07-16;TechSource;Raw Materials;Operations;45605;26;1368;Paid
+2024-11-16;NovaTrade;Office Supplies;Production;35146;30;2109;Paid
+2024-09-15;NovaTrade;Machinery;Logistics;2762;4;83;Paid
+2024-09-07;TechSource;Machinery;Production;3861;8;347;Overdue
+2024-04-27;PrimeSupply;Transportation;Finance;49641;26;2482;Pending
+2023-04-22;OfficePlus;Machinery;Finance;31737;16;3491;Pending
+2024-11-26;EquipMax;Transportation;Operations;29735;24;2676;Overdue
+2023-06-26;OfficePlus;Packaging;Finance;21424;16;643;Paid
+2024-08-21;LogiTrans;Machinery;IT;34880;5;4186;Paid
+2023-02-24;Global Metals;Transportation;Production;24661;6;1480;Overdue
+2023-04-05;OfficePlus;Raw Materials;HR;25604;6;3072;Overdue
+2024-01-21;TechSource;Packaging;HR;8671;13;434;Paid
+2024-06-29;PrimeSupply;Packaging;IT;14065;12;1266;Paid
+2024-11-06;TechSource;IT Equipment;IT;21452;25;2145;Paid
+2024-03-02;NovaTrade;Machinery;Production;9168;25;825;Overdue
+2023-08-27;EuroParts;Transportation;IT;21198;8;2332;Paid
+2024-08-10;PrimeSupply;Maintenance;Logistics;11373;28;114;Pending
+2024-02-15;Global Metals;Raw Materials;Logistics;40571;15;2840;Paid
+2023-07-30;OfficePlus;Transportation;IT;47222;30;1417;Paid
+2024-04-23;OfficePlus;Maintenance;Operations;22376;24;1790;Pending
+2024-02-03;NovaTrade;Machinery;HR;46603;24;4660;Overdue
+2023-04-26;Alpha Industrial;Machinery;Operations;19075;17;2289;Pending
+2024-04-28;EquipMax;Transportation;HR;44531;22;891;Overdue
+2023-06-17;EquipMax;Raw Materials;Operations;43702;12;4807;Overdue
+2024-03-07;TechSource;Machinery;HR;40822;22;2858;Pending
+2023-12-07;EquipMax;Packaging;HR;27220;30;2722;Pending
+2023-12-10;LogiTrans;Machinery;HR;30002;17;2400;Pending
+2024-06-07;Alpha Industrial;Office Supplies;Finance;35176;29;2814;Paid
+2023-06-19;Alpha Industrial;Machinery;Finance;39401;11;1576;Overdue
+2023-12-22;OfficePlus;Machinery;Operations;42077;28;3366;Paid
+2023-06-10;TechSource;Safety Equipment;Operations;43264;8;3028;Overdue
+2024-02-25;Global Metals;Safety Equipment;Finance;38992;19;780;Pending
+2024-06-17;Global Metals;Transportation;Production;49414;24;1482;Overdue
+2023-02-04;EquipMax;Maintenance;Operations;3607;15;72;Paid
+2023-04-06;OfficePlus;IT Equipment;HR;28338;12;2267;Pending
+2023-08-05;NovaTrade;Packaging;Operations;26481;3;530;Paid
+2024-10-16;OfficePlus;IT Equipment;HR;2794;25;251;Paid
+2024-05-25;PrimeSupply;Office Supplies;Finance;6092;20;548;Paid
+2024-06-11;PackPro;IT Equipment;Logistics;7114;27;356;Paid
+2024-04-02;Alpha Industrial;Safety Equipment;Operations;30641;3;1226;Overdue
+2024-10-11;PrimeSupply;Safety Equipment;Operations;9278;14;1021;Paid
+2024-07-08;TechSource;Maintenance;Finance;38492;30;2694;Pending
+2023-06-08;OfficePlus;IT Equipment;Logistics;41682;3;2918;Overdue
+2023-04-18;Alpha Industrial;Raw Materials;IT;45590;29;2735;Overdue
+2023-09-27;PackPro;Raw Materials;Logistics;7558;19;907;Overdue
+2023-05-09;TechSource;Maintenance;IT;12360;4;742;Overdue
+2023-01-25;PackPro;Transportation;Operations;36455;25;3646;Overdue
+2023-11-26;PrimeSupply;Packaging;HR;13406;11;1207;Paid
+2023-03-23;EquipMax;Packaging;Operations;5589;30;279;Paid
+2024-09-10;OfficePlus;Maintenance;Finance;6420;8;385;Pending
+2024-07-14;NovaTrade;Raw Materials;IT;37111;23;4082;Paid
+2023-09-01;EuroParts;Packaging;Operations;28139;30;1970;Pending
+2023-10-23;LogiTrans;Maintenance;Logistics;3302;5;396;Paid
+2023-04-22;Global Metals;Maintenance;HR;23487;27;2584;Paid
+2024-06-30;Alpha Industrial;IT Equipment;Finance;23178;28;1622;Paid
+2024-03-17;TechSource;Maintenance;Production;24072;16;1204;Pending
+2024-05-30;EuroParts;Safety Equipment;HR;45884;12;3212;Pending
+2023-11-15;PackPro;Packaging;Production;15418;17;1542;Overdue
+2024-12-17;EquipMax;Raw Materials;IT;24534;12;1963;Overdue
+2023-01-04;PackPro;Packaging;Operations;20782;14;1247;Pending
+2024-07-13;PackPro;Safety Equipment;Operations;36732;16;2939;Pending
+2024-05-07;EuroParts;Packaging;Operations;41060;25;3285;Overdue
+2024-03-10;PackPro;IT Equipment;Operations;32030;9;1602;Overdue
+2024-03-29;TechSource;Safety Equipment;Production;2114;23;127;Paid
+2024-03-01;TechSource;Safety Equipment;Finance;21409;16;2141;Pending
+2024-10-15;Global Metals;Packaging;Logistics;28630;16;2004;Pending
+2024-09-16;NovaTrade;Packaging;Operations;42022;27;4622;Paid
+2023-04-10;LogiTrans;Office Supplies;HR;36537;28;365;Overdue
+2023-10-08;TechSource;Packaging;Logistics;28214;9;1411;Pending
+2024-03-14;Alpha Industrial;Machinery;Finance;45435;7;909;Overdue
+2024-02-02;Alpha Industrial;Raw Materials;Finance;15306;22;918;Overdue
+2024-04-11;EuroParts;Packaging;IT;24890;16;2240;Paid
+2023-07-11;EuroParts;Transportation;Finance;24010;14;1441;Overdue
+2023-01-08;Alpha Industrial;Maintenance;Operations;16191;15;1295;Overdue
+2024-08-09;PackPro;Safety Equipment;Finance;18704;15;935;Paid
+2024-05-30;EuroParts;Raw Materials;HR;47478;28;4748;Pending
+2024-10-03;PackPro;Maintenance;HR;14308;25;1288;Overdue
+2024-12-01;PrimeSupply;Maintenance;Finance;40007;30;800;Paid
+2023-04-15;PrimeSupply;Machinery;Operations;41105;9;4110;Paid
+2024-01-22;PrimeSupply;Maintenance;Finance;24714;13;989;Overdue
+2023-07-11;NovaTrade;Machinery;Finance;7551;13;227;Pending
+2024-10-26;PackPro;Safety Equipment;Operations;34773;28;1739;Pending
+2024-10-19;TechSource;Machinery;Logistics;7729;12;386;Pending
+2024-05-24;LogiTrans;IT Equipment;Production;30738;20;922;Pending
+2023-04-14;PrimeSupply;Transportation;IT;2364;3;236;Paid
+2023-11-23;NovaTrade;Raw Materials;Operations;36669;3;1100;Overdue
+2024-02-24;EuroParts;IT Equipment;Production;44122;12;2647;Overdue
+2023-09-16;LogiTrans;Safety Equipment;Operations;37547;6;751;Paid
+2024-04-23;NovaTrade;Machinery;Production;32012;8;640;Pending
+2024-04-27;LogiTrans;Office Supplies;Logistics;42909;29;3433;Pending
+2024-04-02;EquipMax;Safety Equipment;Logistics;20224;20;2022;Pending
+2023-06-28;Global Metals;Safety Equipment;Logistics;3795;11;266;Pending
+2023-09-11;PackPro;Safety Equipment;Finance;23156;28;232;Paid
+2024-10-03;OfficePlus;Raw Materials;Finance;27886;6;3067;Overdue
+2024-05-10;PrimeSupply;Office Supplies;Finance;9596;11;960;Pending
+2023-07-29;LogiTrans;IT Equipment;IT;22107;15;663;Paid
+2023-08-18;NovaTrade;IT Equipment;Logistics;46311;28;5557;Paid
+2024-08-02;OfficePlus;Raw Materials;Operations;36307;27;3268;Paid
+2023-06-24;EuroParts;Safety Equipment;HR;3266;29;392;Pending
+2024-01-23;Global Metals;Machinery;HR;22041;13;661;Paid
+2024-10-28;NovaTrade;IT Equipment;Production;34852;5;1046;Paid
+2024-04-13;LogiTrans;Machinery;HR;32126;5;2570;Overdue
+2024-07-04;Alpha Industrial;Machinery;Production;34996;9;3500;Overdue
+2024-08-03;TechSource;Office Supplies;Finance;34831;10;1045;Paid
+2023-07-19;Alpha Industrial;Safety Equipment;Logistics;8260;25;248;Overdue
+2023-01-13;PrimeSupply;Packaging;Operations;31313;28;2505;Pending
+2024-06-08;EuroParts;Safety Equipment;IT;44888;16;3142;Paid
+2023-09-25;Alpha Industrial;IT Equipment;Logistics;22662;30;1813;Pending
+2023-08-18;EuroParts;Office Supplies;IT;27139;23;2443;Pending
+2024-06-25;LogiTrans;Transportation;IT;38121;28;2668;Overdue
+2024-05-09;EuroParts;IT Equipment;IT;39422;12;2365;Overdue
+2024-02-23;OfficePlus;Machinery;Production;32321;28;2909;Pending
+2023-12-21;Alpha Industrial;IT Equipment;Production;30870;25;2778;Pending
+2024-11-06;Alpha Industrial;Raw Materials;Operations;26496;14;265;Overdue
+2024-08-05;OfficePlus;Safety Equipment;IT;9201;21;644;Overdue
+2024-06-26;OfficePlus;Transportation;Operations;36830;8;4051;Overdue
+2024-03-26;TechSource;IT Equipment;Finance;34321;29;343;Paid
+2024-08-06;EquipMax;Machinery;HR;43777;4;1751;Paid
+2024-06-08;NovaTrade;Machinery;IT;34446;11;3789;Paid
+2023-03-08;Global Metals;Machinery;Logistics;22578;30;1129;Overdue
+2023-03-30;EquipMax;Maintenance;Finance;5484;12;219;Paid
+2024-02-27;LogiTrans;Raw Materials;HR;9706;6;194;Pending
+2023-02-06;PrimeSupply;IT Equipment;IT;31312;21;2818;Paid
+2024-06-12;OfficePlus;IT Equipment;Finance;28644;29;1432;Overdue
+2024-04-06;LogiTrans;Transportation;Operations;16621;25;499;Overdue
+2023-01-28;PrimeSupply;Machinery;Finance;26803;25;804;Pending
+2023-08-02;PackPro;IT Equipment;Production;5209;15;104;Pending
+2023-11-24;Alpha Industrial;Maintenance;Logistics;10952;11;767;Pending
+2023-11-20;TechSource;Raw Materials;Logistics;9723;3;97;Pending
+2023-07-18;PackPro;Packaging;HR;12044;3;1325;Paid
+2024-04-22;PackPro;Safety Equipment;HR;7862;23;79;Paid
+2024-10-07;Alpha Industrial;Raw Materials;Operations;34151;18;2049;Overdue
+2023-04-09;NovaTrade;Raw Materials;Finance;31634;5;3163;Paid
+2023-01-15;PrimeSupply;Raw Materials;Finance;49995;27;1500;Overdue
+2023-06-02;EuroParts;Maintenance;Logistics;38583;24;2701;Paid
+2024-08-17;TechSource;Packaging;Logistics;20390;20;204;Overdue
+2023-04-14;Global Metals;Packaging;HR;48995;29;1960;Paid
+2023-11-15;EquipMax;Raw Materials;Production;24504;5;2205;Paid
+2023-04-23;PrimeSupply;Packaging;Operations;30444;29;1827;Pending
+2023-01-23;Alpha Industrial;Maintenance;HR;33818;14;3382;Overdue
+2023-07-19;Global Metals;Maintenance;Logistics;9155;12;92;Paid
+2024-03-28;TechSource;Office Supplies;Logistics;47667;16;5720;Paid
+2023-04-30;NovaTrade;Machinery;IT;14030;13;281;Paid
+2024-01-09;EuroParts;Office Supplies;Production;40212;13;2815;Overdue
+2024-05-26;Global Metals;Transportation;Operations;36456;15;4375;Overdue
+2023-04-15;PrimeSupply;Safety Equipment;Production;8639;11;1037;Paid
+2024-05-18;PrimeSupply;Packaging;Logistics;35452;17;3545;Overdue
+2024-02-27;PackPro;Office Supplies;Operations;27092;12;3251;Paid
+2024-03-11;EquipMax;Transportation;Operations;43683;11;5242;Overdue
+2024-03-10;PackPro;Safety Equipment;Finance;22842;23;2513;Overdue
+2023-04-29;TechSource;Maintenance;IT;18204;22;1092;Overdue
+2024-05-28;Global Metals;Raw Materials;HR;35049;24;350;Paid
+2023-09-07;EquipMax;Office Supplies;Operations;7171;21;215;Paid
+2024-05-30;TechSource;Maintenance;HR;23065;13;923;Paid
+2024-03-15;EuroParts;Raw Materials;HR;12730;13;255;Paid
+2023-03-11;PrimeSupply;Safety Equipment;Logistics;8273;28;414;Overdue
+2024-02-15;TechSource;Office Supplies;HR;35730;18;715;Overdue
+2023-09-29;EquipMax;Safety Equipment;Production;16036;16;1123;Pending
+2023-04-19;Alpha Industrial;IT Equipment;HR;25592;27;1536;Overdue
+2024-05-28;LogiTrans;Raw Materials;IT;26527;20;1326;Overdue
+2024-01-09;LogiTrans;Machinery;Finance;36038;20;2883;Overdue
+2024-12-26;PrimeSupply;Machinery;Logistics;21785;10;2396;Pending
+2023-04-18;EquipMax;Office Supplies;IT;38793;26;4655;Paid
+2023-11-30;LogiTrans;Office Supplies;Production;2357;29;118;Overdue
+2023-12-24;OfficePlus;Safety Equipment;Production;6163;16;431;Pending
+2024-07-20;Alpha Industrial;Packaging;Logistics;40191;15;1608;Paid
+2024-06-29;EuroParts;Maintenance;Operations;29942;7;299;Overdue
+2024-06-21;EquipMax;Maintenance;HR;7776;10;467;Overdue
+2024-09-29;NovaTrade;Raw Materials;Operations;7679;22;461;Overdue
+2024-06-15;TechSource;Safety Equipment;Production;23859;17;2863;Pending
+2023-02-02;OfficePlus;Office Supplies;Finance;2433;24;49;Overdue
+2023-03-23;PrimeSupply;IT Equipment;Production;33334;3;2333;Overdue
+2024-12-07;PackPro;IT Equipment;Production;46899;20;4221;Overdue
+2024-09-06;Global Metals;Machinery;HR;12975;10;1168;Overdue
+2023-10-31;EquipMax;Machinery;IT;31294;16;626;Paid
+2023-11-18;EuroParts;Safety Equipment;IT;49270;30;1971;Paid
+2023-12-16;Global Metals;Raw Materials;Production;13381;10;535;Pending
+2023-02-11;NovaTrade;Machinery;Operations;32801;19;2952;Overdue
+2023-10-11;TechSource;Transportation;Logistics;23428;19;703;Paid
+2024-04-02;LogiTrans;Transportation;IT;45743;24;4574;Pending
+2024-02-01;PackPro;Packaging;Logistics;31465;13;629;Overdue
+2023-06-05;PrimeSupply;Machinery;Finance;8579;19;772;Paid
+2024-05-17;TechSource;IT Equipment;Production;46178;11;4156;Paid
+2024-01-05;OfficePlus;IT Equipment;HR;37943;8;759;Overdue
+2024-08-19;LogiTrans;IT Equipment;Finance;29247;25;1755;Pending
+2023-07-26;PrimeSupply;IT Equipment;Production;23239;27;2556;Pending
+2023-02-01;TechSource;Machinery;Finance;45758;18;4576;Overdue
+2024-01-02;TechSource;Maintenance;IT;13347;3;1335;Paid
+2024-09-18;EquipMax;Office Supplies;Logistics;28375;16;1702;Overdue
+2023-06-07;EuroParts;Maintenance;Production;49793;10;3486;Pending
+2023-07-12;PackPro;IT Equipment;Production;6954;26;556;Overdue
+2023-04-04;PackPro;Packaging;Operations;13052;6;1044;Overdue
+2023-09-07;EuroParts;Machinery;Operations;22312;23;2231;Overdue
+2023-07-05;Global Metals;Machinery;Production;5390;26;54;Overdue
+2024-10-08;PrimeSupply;Packaging;Production;24569;9;2457;Overdue
+2023-07-13;EuroParts;Safety Equipment;Logistics;27953;25;559;Paid
+2023-03-11;LogiTrans;Maintenance;Logistics;23362;16;701;Overdue
+2023-12-11;PrimeSupply;Maintenance;HR;41525;13;4152;Pending
+2023-02-25;LogiTrans;Safety Equipment;Logistics;46604;4;3728;Overdue
+2024-03-15;LogiTrans;Machinery;Operations;48936;27;1957;Paid
+2024-03-27;EuroParts;Office Supplies;Production;23936;21;239;Pending
+2024-12-24;LogiTrans;Safety Equipment;Production;9767;7;586;Paid
+2024-07-29;PrimeSupply;Office Supplies;Finance;20037;28;2204;Overdue
+2023-04-25;LogiTrans;Maintenance;HR;25215;22;2774;Paid
+2023-10-29;Global Metals;Machinery;IT;27827;27;1391;Pending
+2024-07-09;LogiTrans;Transportation;Operations;16758;6;2011;Pending
+2024-09-25;OfficePlus;Raw Materials;Operations;11999;7;960;Pending
+2024-06-18;LogiTrans;Maintenance;Operations;20107;14;603;Pending
+2023-07-21;EquipMax;Transportation;Finance;36666;10;4400;Overdue
+2024-03-30;Alpha Industrial;Transportation;Operations;49786;7;4979;Paid
+2023-07-10;PrimeSupply;Packaging;IT;10684;17;855;Paid
+2024-11-03;EuroParts;IT Equipment;Production;18396;3;1288;Paid
+2023-03-11;EquipMax;Packaging;HR;39710;6;4765;Paid
+2024-02-11;NovaTrade;Transportation;Logistics;38381;25;4222;Paid
+2024-12-22;TechSource;Office Supplies;IT;24948;15;2744;Paid
+2024-03-30;NovaTrade;Packaging;Operations;9511;27;666;Overdue
+2023-08-19;OfficePlus;Maintenance;Production;37413;10;4115;Paid
+2024-08-21;EquipMax;Machinery;HR;45913;25;1377;Paid
+2024-11-27;LogiTrans;Raw Materials;HR;2087;23;83;Paid
+2024-02-18;LogiTrans;IT Equipment;HR;36275;23;2539;Paid
+2024-02-27;EquipMax;Packaging;Operations;10747;27;645;Pending
+2023-09-15;OfficePlus;IT Equipment;IT;34908;19;2094;Pending
+2023-12-26;Global Metals;Raw Materials;HR;18176;17;364;Overdue
+2023-06-02;EuroParts;IT Equipment;Finance;26101;17;2871;Overdue
+2024-11-04;TechSource;Machinery;HR;16110;10;1933;Paid
+2024-11-21;Global Metals;Office Supplies;HR;30074;10;301;Overdue
+2023-01-06;TechSource;IT Equipment;IT;19527;15;976;Paid
+2023-06-01;NovaTrade;Packaging;IT;19265;28;2312;Pending
+2024-11-21;EquipMax;Machinery;Finance;20776;28;416;Overdue
+2024-11-02;LogiTrans;Packaging;Logistics;38137;21;381;Paid
+2023-12-25;PackPro;Office Supplies;IT;2221;17;22;Paid
+2023-09-25;EuroParts;Maintenance;Finance;18663;23;1493;Paid
+2023-07-09;EquipMax;Maintenance;IT;36824;15;2578;Paid
+2024-06-18;Global Metals;Maintenance;HR;32989;21;1649;Paid
+2024-02-08;Global Metals;IT Equipment;Operations;11124;10;667;Overdue
+2024-04-24;PackPro;Office Supplies;HR;35152;13;3867;Overdue
+2024-10-06;EuroParts;Maintenance;IT;10925;23;656;Overdue
+2023-03-21;TechSource;IT Equipment;Logistics;39641;28;1189;Overdue
+2023-10-31;PackPro;Raw Materials;Operations;28936;28;2315;Paid
+2023-04-13;LogiTrans;Packaging;Operations;20165;18;2218;Pending
+2024-11-12;TechSource;Packaging;IT;25519;21;3062;Overdue
+2023-03-13;PrimeSupply;Transportation;Production;14997;14;600;Paid
+2024-07-22;EquipMax;Maintenance;IT;13507;20;810;Paid
+2023-09-02;Alpha Industrial;Office Supplies;IT;8915;16;535;Pending
+2024-04-18;Alpha Industrial;Machinery;Finance;32991;16;1650;Overdue
+2023-11-23;PackPro;Machinery;Operations;43775;13;1313;Pending
+2024-06-05;EquipMax;Machinery;Logistics;26626;23;2130;Paid
+2024-04-10;OfficePlus;Maintenance;Finance;39992;27;3599;Overdue
+2024-11-06;LogiTrans;Office Supplies;Production;18848;6;1508;Paid
+2024-07-25;OfficePlus;Transportation;Logistics;42218;10;1267;Overdue
+2023-08-02;PrimeSupply;Office Supplies;HR;37350;15;4108;Overdue
+2024-02-28;TechSource;Office Supplies;Operations;37429;29;2620;Paid
+2023-07-10;Global Metals;Office Supplies;Finance;6056;25;182;Overdue
+2024-02-12;TechSource;IT Equipment;Finance;43038;15;1722;Pending
+2023-12-11;PrimeSupply;IT Equipment;Logistics;42538;17;5105;Paid
+2023-05-11;Global Metals;IT Equipment;Logistics;21469;8;215;Paid
+2024-05-08;EuroParts;Office Supplies;Finance;27213;6;1905;Paid
+2024-08-12;Global Metals;IT Equipment;Logistics;3169;8;127;Paid
+2024-03-06;NovaTrade;Maintenance;IT;32400;6;2592;Paid
+2024-03-09;TechSource;Transportation;Production;46458;28;5575;Overdue
+2023-01-24;NovaTrade;Office Supplies;IT;34380;4;344;Overdue
+2024-10-15;LogiTrans;Packaging;IT;15423;14;154;Paid
+2023-12-16;TechSource;Maintenance;Finance;27168;9;2445;Paid
+2024-08-23;Alpha Industrial;Machinery;Production;6040;29;181;Pending
+2023-12-26;EquipMax;Office Supplies;HR;8694;11;696;Paid
+2024-10-13;PackPro;Packaging;Finance;22513;6;450;Overdue
+2023-09-26;Alpha Industrial;Transportation;Logistics;46498;25;1860;Overdue
+2023-07-28;OfficePlus;Raw Materials;Finance;12902;13;1161;Paid
+2024-11-30;TechSource;Machinery;IT;34142;13;2390;Paid
+2024-03-12;EquipMax;Maintenance;Production;9098;8;819;Pending
+2023-01-03;NovaTrade;Machinery;IT;12114;5;727;Overdue
+2024-11-21;PackPro;Transportation;Finance;24370;27;487;Paid
+2024-07-24;TechSource;Office Supplies;IT;9743;3;97;Paid
+2023-07-22;NovaTrade;Safety Equipment;IT;35181;4;3518;Paid
+2023-06-10;PackPro;Raw Materials;Finance;9844;18;984;Paid
+2024-05-16;Alpha Industrial;Safety Equipment;Production;45090;29;4058;Pending
+2024-11-03;Alpha Industrial;Raw Materials;IT;6493;19;260;Overdue
+2024-04-03;Alpha Industrial;Raw Materials;Operations;42441;17;2971;Paid
+2024-05-13;Global Metals;Transportation;Production;5862;18;59;Overdue
+2024-11-28;EquipMax;Machinery;HR;4789;18;335;Overdue
+2024-02-07;OfficePlus;Machinery;Logistics;34147;14;1707;Overdue
+2024-04-01;Global Metals;Machinery;IT;40505;4;2835;Paid
+2024-04-27;EuroParts;IT Equipment;Operations;30162;29;2111;Pending
+2023-04-07;EuroParts;Machinery;HR;27179;30;3261;Pending
+2023-01-16;LogiTrans;Maintenance;HR;47823;10;1913;Overdue
+2024-08-11;PrimeSupply;Safety Equipment;Finance;11735;4;1291;Overdue
+2023-11-17;EuroParts;Safety Equipment;Operations;31257;22;625;Paid
+2023-10-29;PackPro;Office Supplies;Production;7241;11;797;Overdue
+2024-08-14;NovaTrade;Packaging;Production;46039;6;921;Paid
+2024-10-31;OfficePlus;Transportation;Logistics;25881;25;1035;Overdue
+2023-04-02;Alpha Industrial;Maintenance;Logistics;25541;21;766;Paid
+2024-12-10;EuroParts;IT Equipment;IT;26967;17;539;Paid
+2024-03-21;LogiTrans;Maintenance;IT;23933;21;2633;Overdue
+2024-09-07;TechSource;Machinery;HR;11313;4;113;Paid
+2023-01-12;PrimeSupply;Packaging;Finance;28988;5;1160;Overdue
+2024-02-19;PrimeSupply;Office Supplies;Operations;14871;16;1338;Pending
+2023-08-13;LogiTrans;Office Supplies;Operations;4783;16;239;Overdue
+2024-03-30;NovaTrade;Transportation;Operations;47186;11;4247;Overdue
+2023-02-09;OfficePlus;IT Equipment;Finance;34666;5;2773;Paid
+2023-12-24;PrimeSupply;Safety Equipment;Production;33648;14;4038;Pending
+2024-05-30;OfficePlus;Safety Equipment;Production;26212;11;3145;Paid
+2023-03-01;PrimeSupply;Safety Equipment;HR;15073;25;1206;Pending
+2024-12-21;EquipMax;Packaging;Operations;37580;6;3006;Pending
+2023-12-10;NovaTrade;Safety Equipment;Production;46947;24;5164;Overdue
+2023-09-29;LogiTrans;Safety Equipment;Operations;15017;25;150;Paid
+2024-04-05;NovaTrade;Transportation;IT;24519;19;1226;Pending
+2024-05-10;NovaTrade;Packaging;Finance;25368;9;761;Pending
+2024-05-26;PackPro;Packaging;Operations;40107;26;802;Overdue
+2023-12-15;LogiTrans;Maintenance;Finance;25317;8;1772;Overdue
+2023-12-04;LogiTrans;Machinery;HR;6196;10;124;Paid
+2023-03-05;EquipMax;Maintenance;IT;32460;13;1623;Overdue
+2023-10-23;PackPro;Machinery;Production;39209;15;2353;Pending
+2023-08-18;TechSource;Machinery;IT;28074;25;1404;Pending
+2024-06-05;EquipMax;Transportation;Production;46057;26;2303;Pending
+2024-09-07;PrimeSupply;Safety Equipment;Finance;36475;12;1094;Overdue
+2023-06-01;LogiTrans;Transportation;Operations;15145;16;151;Paid
+2023-06-28;TechSource;Maintenance;Finance;31460;17;1573;Paid
+2023-10-28;PackPro;Packaging;HR;42039;9;2943;Pending
+2023-02-06;TechSource;Raw Materials;IT;3422;28;68;Paid
+2023-09-18;PackPro;Packaging;IT;24775;24;2973;Paid
+2023-05-02;PackPro;IT Equipment;Finance;18820;23;1317;Pending
+2024-02-22;OfficePlus;Office Supplies;HR;21146;21;2538;Paid
+2024-01-12;PrimeSupply;Transportation;HR;21875;28;1969;Overdue
+2023-05-18;PrimeSupply;Packaging;Production;23340;22;467;Pending
+2023-05-24;LogiTrans;Office Supplies;IT;43123;13;3881;Pending
+2024-02-28;OfficePlus;Machinery;Production;45135;22;4514;Paid
+2024-04-26;TechSource;Packaging;HR;29964;13;300;Overdue
+2024-12-13;PackPro;Safety Equipment;Operations;18129;14;1450;Overdue
+2023-05-17;Global Metals;Packaging;Operations;14946;23;1196;Overdue
+2023-10-02;EquipMax;Raw Materials;HR;6715;18;269;Paid
+2023-07-18;OfficePlus;Raw Materials;Logistics;22638;25;2264;Paid
+2024-03-12;Alpha Industrial;Transportation;HR;31314;24;313;Overdue
+2024-05-29;NovaTrade;Machinery;IT;11923;4;596;Paid
+2024-07-27;EquipMax;Transportation;Finance;23037;18;2304;Pending
+2023-06-04;OfficePlus;Packaging;Logistics;4186;26;293;Paid
+2024-06-19;Alpha Industrial;Packaging;Operations;36543;17;1827;Overdue
+2024-07-06;OfficePlus;Machinery;Logistics;20992;10;840;Paid
+2023-06-11;PrimeSupply;Packaging;Production;3785;10;227;Overdue
+2024-06-30;EquipMax;Raw Materials;Logistics;26087;23;2609;Paid
+2023-12-21;Global Metals;Machinery;Finance;37617;29;752;Overdue
+2024-12-21;Global Metals;Maintenance;Operations;7700;27;616;Paid
+2024-10-02;PackPro;Machinery;Logistics;23567;23;2121;Paid
+2024-10-23;TechSource;Raw Materials;IT;47184;17;3775;Pending
+2023-01-19;OfficePlus;Maintenance;Logistics;11318;27;1358;Paid
+2024-11-16;PackPro;Machinery;Production;14664;15;880;Paid
+2024-04-24;LogiTrans;Raw Materials;IT;12249;22;857;Pending
+2024-11-11;PrimeSupply;Machinery;HR;46180;10;1385;Overdue
+2024-03-29;EuroParts;IT Equipment;Operations;20096;10;2412;Paid
+2024-09-08;NovaTrade;IT Equipment;Logistics;21672;20;1950;Overdue
+2024-09-28;Alpha Industrial;Transportation;Finance;11434;12;457;Pending
+2023-02-01;PrimeSupply;Transportation;IT;29518;24;1476;Paid
+2024-01-17;OfficePlus;Transportation;Production;48974;9;3428;Pending
+2023-09-11;NovaTrade;Machinery;Operations;27576;27;276;Pending
+2023-09-02;OfficePlus;Maintenance;IT;15163;9;152;Pending
+2023-05-31;EuroParts;Machinery;IT;18859;17;1132;Pending
+2023-11-12;EuroParts;Office Supplies;Logistics;24113;24;241;Overdue
+2024-11-03;LogiTrans;Packaging;Logistics;23564;5;1885;Paid
+2023-04-28;LogiTrans;Raw Materials;Finance;45990;12;460;Paid
+2023-10-01;Global Metals;Transportation;IT;35044;26;3504;Overdue
+2024-11-13;LogiTrans;Office Supplies;IT;23028;6;1382;Pending
+2024-10-26;TechSource;Raw Materials;IT;14796;26;444;Pending
+2023-05-11;PackPro;Maintenance;Operations;4950;5;396;Pending
+2024-02-24;Alpha Industrial;Maintenance;Operations;29649;19;3558;Paid
+2023-08-27;Alpha Industrial;Machinery;Logistics;34145;20;3414;Overdue
+2024-03-07;OfficePlus;Machinery;Production;28270;14;2827;Paid
+2024-07-10;Global Metals;Machinery;Finance;41301;12;826;Pending
+2024-03-13;Alpha Industrial;IT Equipment;Production;18956;20;1706;Overdue
+2024-08-11;EquipMax;Raw Materials;HR;41038;29;1642;Paid
+2023-11-20;EuroParts;Machinery;Logistics;18875;6;2265;Overdue
+2023-03-19;EuroParts;Packaging;Logistics;39199;21;784;Overdue
+2024-08-06;PrimeSupply;Machinery;HR;26161;3;1570;Paid
+2023-04-26;PackPro;Packaging;HR;45904;22;459;Paid
+2023-02-10;Alpha Industrial;Machinery;Finance;42595;27;1278;Overdue
+2024-08-07;NovaTrade;Maintenance;Operations;17686;4;1592;Overdue
+2024-11-18;EuroParts;Machinery;Logistics;37891;15;4168;Overdue
+2023-03-09;EquipMax;Raw Materials;Operations;31536;28;3784;Overdue
+2023-10-08;PrimeSupply;Machinery;Operations;31394;25;1256;Overdue
+2024-11-26;EquipMax;Transportation;Operations;5843;15;467;Paid
+2023-04-30;LogiTrans;Raw Materials;HR;32329;18;1293;Overdue
+2024-08-27;TechSource;Safety Equipment;Production;11147;27;111;Pending
+2023-03-19;PackPro;Raw Materials;Operations;9171;10;92;Pending
+2023-07-24;LogiTrans;Transportation;IT;42219;12;4644;Pending
+2023-05-06;Alpha Industrial;Office Supplies;HR;8497;28;255;Pending
+2023-09-23;EquipMax;Safety Equipment;IT;36751;9;1103;Pending
+2024-03-16;PrimeSupply;Transportation;Logistics;15305;10;459;Pending
+2023-07-17;EuroParts;Packaging;Production;9902;16;792;Pending
+2023-03-13;PackPro;Maintenance;IT;20325;18;610;Paid
+2023-12-11;Alpha Industrial;IT Equipment;HR;31383;12;3138;Pending
+2024-09-13;PrimeSupply;Safety Equipment;Finance;48327;22;1450;Pending
+2024-10-20;Alpha Industrial;Packaging;HR;30722;28;2151;Pending
+2023-06-27;Global Metals;IT Equipment;Production;23440;30;2813;Overdue
+2023-12-08;EquipMax;Transportation;Production;4008;8;40;Overdue
+2024-11-11;EuroParts;Transportation;Production;25892;15;1295;Pending
+2023-11-04;PackPro;Raw Materials;Finance;31063;11;1243;Overdue
+2024-01-25;EuroParts;Maintenance;Logistics;10563;18;1056;Overdue
+2024-09-21;Global Metals;Raw Materials;Operations;5216;26;469;Overdue
+2024-02-17;NovaTrade;IT Equipment;Operations;22420;14;2690;Paid
+2024-05-16;PrimeSupply;Safety Equipment;Operations;12837;24;899;Pending
+2024-02-03;Global Metals;IT Equipment;HR;4993;28;200;Overdue
+2023-07-01;OfficePlus;IT Equipment;Finance;20245;12;810;Overdue
+2023-04-12;EuroParts;Machinery;Logistics;33591;29;3695;Pending
+2023-03-04;PrimeSupply;Transportation;Operations;13616;6;545;Paid
+2024-08-16;EuroParts;IT Equipment;Logistics;18699;15;935;Overdue
+2023-04-11;OfficePlus;Safety Equipment;Logistics;23736;19;1424;Pending
+2024-04-08;TechSource;Office Supplies;Logistics;20876;28;1253;Overdue
+2023-10-01;PackPro;Raw Materials;Logistics;22164;6;1551;Overdue
+2023-02-21;PrimeSupply;Raw Materials;Finance;24164;21;1691;Paid
+2024-01-03;EuroParts;Safety Equipment;Finance;34512;10;1035;Paid
+2024-05-12;Global Metals;Transportation;HR;7391;29;739;Pending
+2023-05-09;PackPro;Safety Equipment;Logistics;7732;23;77;Paid
+2024-05-24;NovaTrade;Maintenance;Finance;46997;6;4230;Pending
+2024-02-01;PackPro;Transportation;HR;37353;7;2241;Paid
+2024-11-24;EquipMax;Maintenance;Production;32973;5;989;Pending
+2023-02-20;LogiTrans;Packaging;Operations;12397;13;1488;Pending
+2023-03-30;Global Metals;Maintenance;HR;32941;6;329;Pending
+2024-10-03;TechSource;Maintenance;Logistics;47595;23;1904;Overdue
+2023-05-19;NovaTrade;Transportation;Finance;43022;9;3872;Overdue
+2023-01-17;EquipMax;Office Supplies;Operations;27890;11;1952;Overdue
+2024-06-08;Global Metals;Safety Equipment;HR;8858;29;797;Pending
+2024-11-09;Alpha Industrial;Machinery;Production;31274;15;2189;Pending
+2023-01-03;NovaTrade;Maintenance;IT;12482;14;624;Overdue
+2024-02-04;NovaTrade;Safety Equipment;Operations;37452;19;4494;Paid
+2024-02-16;OfficePlus;Transportation;IT;14828;4;445;Overdue
+2023-06-12;LogiTrans;Packaging;Production;24255;15;1213;Pending
+2023-09-20;Global Metals;IT Equipment;Production;17138;16;1885;Paid
+2024-10-16;TechSource;Office Supplies;Logistics;12750;9;255;Overdue
+2024-04-16;NovaTrade;Machinery;IT;36963;22;3327;Overdue
+2024-05-29;Alpha Industrial;Machinery;Logistics;18910;14;2080;Paid
+2023-12-05;EuroParts;Raw Materials;Finance;20374;19;2037;Overdue
+2023-01-15;Alpha Industrial;Packaging;Production;34297;28;2058;Paid
+2023-03-24;EquipMax;Office Supplies;Production;6324;6;63;Overdue
+2023-06-27;EuroParts;Office Supplies;HR;2455;29;49;Paid
+2023-07-03;PackPro;IT Equipment;Production;8983;24;1078;Pending
+2024-10-12;OfficePlus;Transportation;Finance;2026;10;162;Overdue
+2024-07-27;TechSource;Transportation;Production;43598;21;4360;Pending
+2023-03-16;OfficePlus;Safety Equipment;Logistics;40091;11;2405;Pending
+2023-02-06;TechSource;Packaging;Finance;28742;16;3449;Paid
+2024-06-17;LogiTrans;Office Supplies;Production;15559;17;156;Paid
+2023-07-20;EuroParts;Maintenance;Production;27817;9;3338;Pending
+2024-06-24;EquipMax;Maintenance;HR;36620;12;1831;Pending
+2023-01-11;Global Metals;IT Equipment;Logistics;24619;19;2954;Overdue
+2024-01-26;LogiTrans;Office Supplies;HR;32527;15;651;Overdue
+2023-02-15;Global Metals;Office Supplies;Logistics;32754;13;1638;Paid
+2024-06-22;Alpha Industrial;Machinery;Logistics;49028;29;3922;Pending
+2023-12-10;Global Metals;Maintenance;HR;30751;5;3690;Pending
+2024-08-22;PackPro;Office Supplies;Operations;21982;19;1539;Paid
+2024-09-22;EuroParts;Raw Materials;IT;45327;16;2266;Paid
+2024-09-18;TechSource;Raw Materials;IT;20645;18;1652;Overdue
+2023-02-05;PackPro;IT Equipment;HR;37379;11;2617;Pending
+2023-01-06;Alpha Industrial;Machinery;Production;7384;27;295;Paid
+2023-12-20;TechSource;IT Equipment;IT;42145;16;3793;Pending
+2023-04-15;NovaTrade;Office Supplies;Finance;18937;28;947;Paid
+2024-11-30;LogiTrans;Machinery;Logistics;40573;15;4869;Pending
+2023-03-19;PrimeSupply;Machinery;IT;6163;13;308;Overdue
+2024-04-05;TechSource;Transportation;IT;38002;14;4560;Paid
+2024-07-11;LogiTrans;Office Supplies;Finance;18522;18;185;Overdue
+2024-02-18;PrimeSupply;IT Equipment;Production;31969;19;959;Overdue
+2023-11-03;LogiTrans;Maintenance;Operations;12948;30;647;Pending
+2023-04-23;Alpha Industrial;Office Supplies;Logistics;6135;6;736;Overdue
+2024-05-08;NovaTrade;Safety Equipment;Finance;24693;6;1482;Overdue
+2023-07-02;NovaTrade;Raw Materials;Operations;26994;22;540;Paid
+2023-10-27;PackPro;Transportation;Operations;39461;8;789;Paid
+2024-12-14;PackPro;IT Equipment;Production;39948;22;3595;Pending
+2024-09-25;NovaTrade;IT Equipment;Operations;6271;21;690;Paid
+2024-01-19;PrimeSupply;Transportation;Operations;27611;5;1657;Paid
+2023-02-19;LogiTrans;Office Supplies;Operations;3910;27;274;Overdue
+2023-04-27;TechSource;Packaging;Finance;6439;26;515;Pending
+2024-07-29;TechSource;IT Equipment;Finance;16874;17;1856;Overdue
+2024-06-27;NovaTrade;Raw Materials;Operations;20463;14;1637;Overdue
+2023-04-15;Global Metals;Machinery;IT;18568;13;1114;Pending
+2024-12-15;EuroParts;IT Equipment;IT;26905;16;2960;Pending
+2023-03-18;EuroParts;Transportation;Production;35054;8;701;Overdue
+2024-08-06;OfficePlus;Machinery;Production;9360;29;749;Paid
+2024-05-29;TechSource;Transportation;Operations;13439;16;672;Paid
+2023-11-21;PrimeSupply;Office Supplies;HR;23930;21;1914;Paid
+2023-06-09;OfficePlus;Raw Materials;HR;33773;27;338;Overdue
+2023-03-25;NovaTrade;IT Equipment;Operations;8111;26;892;Pending
+2023-05-04;PackPro;Maintenance;Finance;44610;11;2677;Pending
+2024-12-25;OfficePlus;Transportation;Production;25467;14;2292;Overdue
+2023-12-29;TechSource;Maintenance;Finance;2238;13;179;Pending
+2023-05-11;EuroParts;Office Supplies;Finance;29280;17;1171;Pending
+2024-11-07;NovaTrade;IT Equipment;IT;17557;14;1229;Paid
+2023-05-30;PrimeSupply;Maintenance;IT;42047;25;2943;Paid
+2023-08-08;PackPro;Maintenance;Logistics;21915;11;877;Pending
+2023-10-17;EuroParts;Transportation;IT;48235;21;5788;Pending
+2024-07-29;EquipMax;Machinery;HR;12324;8;863;Pending
+2024-05-18;LogiTrans;IT Equipment;IT;47692;29;3338;Overdue
+2024-10-02;OfficePlus;IT Equipment;Finance;47749;17;2865;Paid
+2024-12-28;LogiTrans;Machinery;HR;37042;19;370;Paid
+2024-09-30;Global Metals;Office Supplies;Finance;25116;17;2512;Paid
+2023-09-20;Global Metals;Safety Equipment;Logistics;46088;10;2304;Overdue
+2024-06-09;Alpha Industrial;Maintenance;Production;12956;4;1425;Pending
+2023-08-27;TechSource;Maintenance;IT;10587;26;1059;Pending
+2024-12-22;TechSource;IT Equipment;Logistics;15509;15;155;Overdue
+2024-06-24;NovaTrade;Maintenance;Production;14405;21;720;Pending
+2023-03-21;Alpha Industrial;Transportation;Logistics;32374;13;324;Paid
+2024-05-11;LogiTrans;Packaging;IT;30959;23;2786;Paid
+2024-05-22;Global Metals;Safety Equipment;Logistics;2484;18;174;Overdue
+2024-02-06;EquipMax;Machinery;IT;18533;4;371;Paid
+2024-10-06;TechSource;Office Supplies;Logistics;47004;16;3760;Overdue
+2024-11-20;Alpha Industrial;Office Supplies;HR;19304;23;1351;Pending
+2023-12-23;OfficePlus;Office Supplies;Finance;24855;17;2237;Pending
+2023-01-17;EquipMax;Machinery;HR;18968;12;190;Paid
+2024-09-20;PackPro;IT Equipment;HR;33542;29;4025;Paid
+2023-04-15;EuroParts;Safety Equipment;Production;40327;3;2823;Overdue
+2023-10-01;PackPro;Transportation;IT;29601;20;592;Overdue
+2023-06-14;LogiTrans;IT Equipment;Production;6721;13;202;Overdue
+2024-09-02;Global Metals;Safety Equipment;Logistics;16540;17;1158;Overdue
+2023-05-18;PackPro;Safety Equipment;HR;11669;29;1167;Paid
+2024-08-09;NovaTrade;Packaging;Operations;28212;3;2821;Paid
+2023-10-14;TechSource;Raw Materials;HR;26876;23;2150;Paid
+2024-06-01;OfficePlus;Maintenance;IT;8106;8;730;Paid
+2024-12-26;PrimeSupply;Safety Equipment;Production;33397;7;2338;Paid
+2024-07-01;Alpha Industrial;Maintenance;HR;11431;27;686;Paid
+2023-11-07;LogiTrans;IT Equipment;Operations;39235;10;785;Paid
+2024-01-02;PrimeSupply;Transportation;Production;23044;20;2535;Pending
+2024-04-20;EuroParts;Office Supplies;Finance;12171;26;730;Overdue
+2024-03-31;PrimeSupply;Packaging;Production;41336;5;2480;Paid
+2024-05-02;OfficePlus;Office Supplies;HR;25257;8;253;Pending
+2024-11-20;OfficePlus;IT Equipment;Logistics;44704;27;447;Pending
+2024-09-21;EuroParts;IT Equipment;HR;21571;27;2157;Paid
+2023-02-25;NovaTrade;Transportation;Operations;37066;26;4448;Paid
+2023-03-22;OfficePlus;Maintenance;Operations;41810;25;1254;Paid
+2023-07-20;PackPro;Raw Materials;IT;49608;15;2976;Pending
+2024-08-01;TechSource;Raw Materials;Operations;35093;21;2807;Overdue
+2024-12-18;PackPro;Raw Materials;Operations;7990;21;479;Pending
+2024-02-24;NovaTrade;IT Equipment;Logistics;10662;3;426;Paid
+2023-03-07;PrimeSupply;Office Supplies;Logistics;34925;5;3143;Overdue
+2023-06-05;EuroParts;Raw Materials;Operations;15613;25;1093;Paid
+2024-01-27;Alpha Industrial;Office Supplies;Operations;24358;14;487;Paid
+2024-10-10;LogiTrans;IT Equipment;Finance;27954;7;2795;Paid
+2024-07-23;Alpha Industrial;Transportation;HR;37381;22;3364;Paid
+2024-07-16;NovaTrade;Transportation;HR;10928;28;437;Pending
+2024-01-06;Global Metals;Maintenance;HR;48106;26;5773;Overdue
+2024-02-22;Global Metals;Safety Equipment;Production;23303;7;932;Overdue
+2024-09-14;EquipMax;Maintenance;Logistics;20950;5;2514;Paid
+2023-10-22;Global Metals;Raw Materials;Finance;16079;7;804;Pending
+2024-08-10;PackPro;Machinery;Operations;15013;5;1651;Pending
+2023-08-29;PackPro;Maintenance;Finance;43399;8;3906;Overdue
+2023-10-31;Global Metals;Machinery;Operations;43548;8;1306;Overdue
+2023-05-13;NovaTrade;Raw Materials;Production;43724;9;3061;Overdue
+2023-07-01;PrimeSupply;Transportation;IT;49143;25;2949;Pending
+2024-12-05;EquipMax;IT Equipment;Finance;23464;13;704;Pending
+2023-09-01;PrimeSupply;Safety Equipment;IT;7881;12;946;Overdue
+2023-09-27;Global Metals;Machinery;Finance;48406;15;2904;Paid
+2024-11-20;NovaTrade;Transportation;Finance;46882;6;5157;Paid
+2024-03-10;OfficePlus;Packaging;IT;12798;28;1536;Paid
+2023-11-25;LogiTrans;Transportation;Production;3889;3;311;Paid
+2024-01-01;Alpha Industrial;Machinery;IT;22708;10;1590;Overdue
+2023-12-10;Alpha Industrial;Safety Equipment;HR;41955;30;1259;Overdue
+2023-08-29;EuroParts;IT Equipment;IT;20106;24;804;Pending
+2023-07-18;TechSource;Safety Equipment;HR;29146;17;1166;Overdue
+2023-03-20;LogiTrans;Office Supplies;Operations;26600;25;2660;Overdue
+2023-01-12;Alpha Industrial;Transportation;Production;19579;12;2349;Overdue
+2023-07-19;Alpha Industrial;Transportation;IT;27269;25;545;Paid
+2023-01-10;EquipMax;Packaging;Production;6601;3;792;Pending
+2023-04-04;LogiTrans;Maintenance;Production;48866;5;1955;Pending
+2024-10-09;TechSource;Packaging;Logistics;11723;28;1407;Overdue
+2023-04-11;PrimeSupply;Raw Materials;Logistics;5400;7;648;Paid
+2024-06-19;TechSource;Maintenance;Finance;3526;16;176;Overdue
+2024-08-18;OfficePlus;Packaging;Finance;13962;5;1117;Pending
+2023-01-06;PackPro;Maintenance;Production;7690;12;154;Overdue
+2024-04-02;NovaTrade;Transportation;Production;42052;25;3785;Paid
+2024-12-01;EuroParts;Transportation;Operations;46762;25;4676;Pending
+2023-12-30;Alpha Industrial;Transportation;Logistics;44142;23;2649;Paid
+2024-10-25;EuroParts;Maintenance;Finance;17431;5;1394;Overdue
+2023-05-20;LogiTrans;Packaging;HR;35954;18;3955;Paid
+2023-02-14;NovaTrade;Safety Equipment;Logistics;2322;10;209;Overdue
+2023-09-10;LogiTrans;Transportation;IT;14779;5;1773;Pending
+2024-04-24;LogiTrans;Machinery;HR;44626;19;3570;Pending
+2023-05-06;TechSource;Maintenance;Operations;47182;21;2831;Overdue
+2024-01-17;PackPro;Packaging;Logistics;40055;28;1602;Overdue
+2024-05-07;EuroParts;Maintenance;Production;45967;26;5516;Overdue
+2024-11-25;NovaTrade;Safety Equipment;Operations;11041;26;883;Overdue
+2023-06-19;EuroParts;Machinery;Logistics;46284;11;4628;Overdue
+2023-11-17;LogiTrans;Machinery;Finance;2215;29;266;Overdue
+2024-08-15;EquipMax;Office Supplies;Operations;16537;14;1984;Paid
+2023-07-29;TechSource;Office Supplies;IT;30531;15;3664;Paid
+2024-12-31;LogiTrans;Raw Materials;Production;47568;17;476;Pending
+2023-04-15;Alpha Industrial;Maintenance;IT;33137;30;1325;Pending
+2023-06-11;NovaTrade;Raw Materials;IT;39566;27;396;Overdue
+2023-10-09;EquipMax;Office Supplies;HR;17089;29;1025;Paid
+2024-11-27;PrimeSupply;Raw Materials;Finance;46714;25;4671;Overdue
+2023-04-06;NovaTrade;Maintenance;HR;30516;29;305;Paid
+2023-12-22;LogiTrans;Machinery;Production;28851;28;3462;Paid
+2023-09-25;PrimeSupply;Packaging;HR;27448;9;2196;Pending
+2024-08-25;EuroParts;Machinery;Production;46089;25;5531;Paid
+2023-12-11;OfficePlus;Raw Materials;IT;5448;21;545;Pending
+2024-12-05;LogiTrans;Safety Equipment;Logistics;19191;13;960;Pending
+2024-10-03;Global Metals;Transportation;HR;24509;9;735;Overdue
+2023-01-26;EuroParts;Packaging;IT;7792;18;390;Paid
+2024-05-19;TechSource;Office Supplies;Operations;2345;21;117;Paid
+2023-03-04;PrimeSupply;Machinery;Logistics;2114;22;42;Pending
+2023-07-18;Global Metals;Maintenance;IT;47716;20;1431;Paid
+2024-11-06;Alpha Industrial;IT Equipment;Finance;5706;9;514;Overdue
+2024-02-19;PackPro;Packaging;Logistics;17976;25;899;Pending
+2024-04-15;PackPro;Transportation;Finance;34596;14;3806;Paid
+2024-01-11;OfficePlus;Office Supplies;Logistics;18067;9;1265;Pending
+2023-07-17;LogiTrans;Office Supplies;IT;2943;30;29;Pending
+2024-10-07;PrimeSupply;Packaging;IT;47541;16;475;Overdue
+2024-01-25;NovaTrade;Packaging;Operations;28078;13;1965;Paid
+2023-02-09;Global Metals;Machinery;Production;23627;24;945;Overdue
+2023-12-20;PrimeSupply;Machinery;Finance;36483;18;4013;Paid
+2024-07-18;LogiTrans;Maintenance;Production;32797;24;2296;Pending
+2023-10-02;Alpha Industrial;Office Supplies;Production;7508;21;375;Pending
+2024-10-15;Alpha Industrial;Maintenance;HR;47466;30;5696;Paid
+2024-10-10;Alpha Industrial;Transportation;Production;36352;28;1818;Pending
+2023-05-28;PrimeSupply;IT Equipment;Logistics;27516;7;3027;Paid
+2023-01-11;Global Metals;Transportation;Logistics;19188;23;1151;Overdue
+2024-08-22;PackPro;IT Equipment;HR;37795;3;2646;Pending
+2023-09-13;NovaTrade;Transportation;Production;38233;28;4206;Overdue
+2024-09-26;Alpha Industrial;Maintenance;HR;7866;7;708;Paid
+2024-12-24;EuroParts;Office Supplies;HR;15031;6;1202;Overdue
+2023-12-09;EquipMax;Raw Materials;HR;14801;22;740;Pending
+2024-11-08;NovaTrade;IT Equipment;Operations;5601;9;224;Overdue
+2023-02-16;PrimeSupply;Packaging;Operations;43126;10;1725;Pending
+2024-01-27;Alpha Industrial;Safety Equipment;HR;31782;29;3814;Overdue
+2023-05-09;Alpha Industrial;Safety Equipment;Logistics;42757;23;3421;Pending
+2023-03-17;LogiTrans;Machinery;HR;22175;20;1996;Paid
+2024-09-26;TechSource;Maintenance;IT;5950;25;476;Paid
+2024-07-29;Global Metals;Maintenance;Finance;47765;26;2866;Pending
+2024-03-03;OfficePlus;Office Supplies;HR;33109;17;3311;Pending
+2023-03-10;Alpha Industrial;Maintenance;Logistics;40550;5;3244;Overdue
+2023-02-04;TechSource;Transportation;Finance;24453;29;1956;Overdue
+2023-07-12;PrimeSupply;Transportation;Operations;45011;12;450;Paid
+2023-07-03;EuroParts;Packaging;Finance;18060;28;181;Paid
+2024-10-30;EquipMax;Safety Equipment;Finance;44855;30;2691;Paid
+2024-02-16;OfficePlus;Transportation;Production;22488;27;1124;Pending
+2023-04-14;Global Metals;Transportation;HR;13068;30;131;Paid
+2023-03-29;Alpha Industrial;IT Equipment;IT;16568;24;994;Overdue
+2024-09-30;NovaTrade;Transportation;Production;32561;20;2605;Pending
+2024-11-28;TechSource;IT Equipment;Operations;24536;9;2454;Paid
+2023-03-18;EuroParts;Raw Materials;Logistics;42363;7;2118;Overdue
+2023-03-26;EquipMax;IT Equipment;Finance;3781;12;416;Pending
+2023-04-09;OfficePlus;Safety Equipment;IT;19231;25;577;Paid
+2023-11-18;LogiTrans;Machinery;IT;5056;10;354;Pending
+2024-10-13;EquipMax;Packaging;IT;2871;6;115;Pending
+2024-01-09;PackPro;Office Supplies;Finance;12519;15;1502;Paid
+2024-05-29;Alpha Industrial;Packaging;Logistics;22463;22;1797;Overdue
+2023-01-31;PrimeSupply;Office Supplies;Finance;8187;13;82;Pending
+2024-09-19;Alpha Industrial;Packaging;Operations;24629;5;493;Pending
+2024-12-18;EquipMax;IT Equipment;Logistics;7321;24;73;Pending
+2023-03-06;EuroParts;Packaging;Logistics;23536;25;235;Paid
+2023-12-03;NovaTrade;Machinery;IT;6568;30;788;Overdue
+2023-03-12;Alpha Industrial;Raw Materials;Operations;48358;24;484;Pending
+2023-06-26;Alpha Industrial;Maintenance;HR;26805;27;1608;Paid
+2023-02-27;LogiTrans;Packaging;IT;13567;16;950;Paid
+2024-11-02;OfficePlus;Office Supplies;HR;5921;3;118;Paid
+2024-10-14;PackPro;Office Supplies;HR;23860;11;2386;Overdue
+2024-01-01;EquipMax;Raw Materials;Finance;36806;10;2208;Paid
+2023-06-25;Alpha Industrial;Office Supplies;Logistics;30250;27;605;Pending
+2024-03-31;LogiTrans;Safety Equipment;IT;45001;11;3150;Pending
+2023-10-13;EuroParts;Office Supplies;IT;24290;16;2915;Paid
+2023-04-04;PackPro;Raw Materials;Finance;16868;18;1687;Overdue
+2024-05-18;LogiTrans;Safety Equipment;HR;28942;21;2605;Paid
+2023-02-07;Global Metals;Packaging;Operations;38759;4;388;Paid
+2024-11-25;OfficePlus;Raw Materials;Logistics;11793;26;118;Overdue
+2023-02-07;TechSource;Safety Equipment;Operations;43721;13;4809;Overdue
+2024-06-11;TechSource;Office Supplies;Production;17085;11;1025;Paid
+2023-04-24;TechSource;Safety Equipment;Operations;13635;8;1636;Paid
+2023-08-22;EuroParts;Office Supplies;Finance;49430;12;989;Pending
+2024-08-31;Global Metals;Machinery;Production;13114;8;918;Pending
+2023-01-30;Global Metals;Office Supplies;IT;37827;11;3026;Overdue
+2023-04-20;EquipMax;Raw Materials;Operations;28405;15;2840;Paid
+2023-03-05;Alpha Industrial;Transportation;Logistics;35836;22;2150;Paid
+2023-04-10;OfficePlus;Maintenance;Logistics;20258;12;2026;Pending
+2023-08-03;NovaTrade;Raw Materials;Operations;11871;14;1425;Paid
+2024-01-26;EquipMax;Raw Materials;HR;2120;12;127;Overdue
+2024-10-18;Global Metals;Safety Equipment;Logistics;25360;23;2282;Paid
+2024-11-04;TechSource;Transportation;Logistics;42960;25;1718;Pending
+2024-03-03;Global Metals;IT Equipment;Production;45805;7;3664;Overdue
+2023-06-10;OfficePlus;Raw Materials;Finance;35586;8;1779;Pending
+2024-10-11;OfficePlus;Machinery;IT;20125;3;201;Pending
+2023-12-21;OfficePlus;Office Supplies;Operations;8230;13;658;Pending
+2023-09-27;TechSource;Raw Materials;IT;7991;14;400;Pending
+2023-06-28;NovaTrade;Machinery;Operations;24593;14;738;Paid
+2024-02-23;Global Metals;Transportation;Finance;48836;3;977;Overdue
+2023-05-31;EuroParts;Machinery;Logistics;43291;16;3463;Pending
+2023-08-25;EquipMax;Machinery;Finance;45332;27;1360;Pending
+2023-06-22;EuroParts;Transportation;HR;5435;25;489;Paid
+2024-01-20;LogiTrans;Raw Materials;IT;17431;6;2092;Overdue
+2024-08-11;EuroParts;Packaging;HR;37797;20;3780;Pending
+2024-06-13;OfficePlus;Raw Materials;HR;21333;24;1493;Overdue
+2023-07-02;PackPro;IT Equipment;Operations;14247;7;1282;Overdue
+2024-10-20;PackPro;Safety Equipment;Production;10677;27;747;Paid
+2024-02-16;Alpha Industrial;Raw Materials;Logistics;42091;11;1263;Pending
+2023-02-06;TechSource;Transportation;Logistics;25296;13;2277;Overdue
+2023-06-29;EuroParts;IT Equipment;Operations;7024;11;702;Overdue
+2024-07-15;Global Metals;Machinery;Finance;32888;28;3289;Pending
+2023-12-05;TechSource;Transportation;Production;13373;20;669;Pending
+2023-12-26;PrimeSupply;IT Equipment;IT;25491;4;765;Pending
+2023-03-14;EquipMax;Raw Materials;Logistics;25794;22;1032;Overdue
+2023-06-26;TechSource;Raw Materials;Operations;40050;21;1202;Paid
+2023-06-19;OfficePlus;Office Supplies;Production;23237;25;1162;Pending
+2024-11-05;EuroParts;IT Equipment;Finance;41270;6;2889;Paid
+2024-03-18;PrimeSupply;Raw Materials;Finance;36108;18;2528;Paid
+2024-01-01;TechSource;Transportation;HR;41186;3;4942;Pending
+2024-06-30;TechSource;Packaging;Finance;44392;14;2664;Pending
+2023-09-17;Global Metals;IT Equipment;Production;37276;21;373;Overdue
+2024-01-19;EquipMax;Packaging;Operations;44013;17;2201;Paid
+2023-05-26;OfficePlus;Machinery;IT;6387;22;64;Paid
+2024-06-12;Global Metals;Maintenance;Finance;14601;14;1168;Paid
+2024-07-11;EquipMax;Maintenance;HR;16496;5;1980;Paid
+2023-06-23;NovaTrade;IT Equipment;Finance;12551;25;1506;Pending
+2024-10-09;PackPro;Machinery;IT;20218;8;1213;Pending
+2024-01-29;EuroParts;Machinery;HR;19935;17;598;Overdue
+2024-03-25;PrimeSupply;Transportation;Operations;47344;27;4261;Overdue
+2024-09-18;PackPro;Raw Materials;IT;12218;15;1222;Pending
+2024-06-21;EuroParts;Machinery;Finance;20115;11;1408;Pending
+2023-02-24;Global Metals;Raw Materials;Finance;31108;29;622;Overdue
+2024-02-19;EquipMax;Safety Equipment;HR;12189;20;609;Overdue
+2023-04-30;PrimeSupply;IT Equipment;Production;8806;15;440;Pending
+2024-12-21;NovaTrade;Machinery;IT;48603;5;2916;Overdue
+2024-10-22;Alpha Industrial;Maintenance;Production;27272;24;818;Paid
+2023-07-26;Global Metals;Raw Materials;IT;48923;18;3914;Overdue
+2023-02-14;PackPro;Safety Equipment;IT;8192;24;573;Pending
+2023-04-24;LogiTrans;IT Equipment;Operations;46299;18;2315;Pending
+2023-05-03;EuroParts;Safety Equipment;Operations;14870;24;1338;Paid
+2023-12-09;Alpha Industrial;Machinery;IT;27123;26;1356;Pending
+2023-02-02;PackPro;Maintenance;Production;42526;30;2552;Overdue
+2023-10-07;TechSource;Office Supplies;Finance;6748;5;337;Paid
+2023-09-05;EuroParts;Office Supplies;Logistics;46915;30;469;Paid
+2024-09-17;PackPro;Office Supplies;IT;30706;7;2149;Pending
+2024-11-24;Alpha Industrial;IT Equipment;Production;48486;3;485;Overdue
+2024-10-17;OfficePlus;Office Supplies;Finance;4320;16;302;Paid
+2024-08-16;EuroParts;Office Supplies;Finance;26499;20;3180;Pending
+2023-07-02;EuroParts;Packaging;Production;28443;14;284;Paid
+2023-11-27;NovaTrade;Packaging;HR;23142;29;1389;Paid
+2023-01-16;Global Metals;Transportation;Finance;27717;12;3049;Overdue
+2024-12-31;PackPro;Office Supplies;Finance;49380;21;988;Overdue
+2024-10-16;Alpha Industrial;Office Supplies;HR;36202;6;362;Paid
+2023-01-24;EuroParts;IT Equipment;Production;28780;26;1151;Overdue
+2023-09-04;EuroParts;Packaging;IT;27455;30;549;Overdue
+2024-08-15;LogiTrans;Transportation;Production;23204;14;2320;Overdue
+2023-10-16;EquipMax;Office Supplies;Production;7692;3;923;Pending
+2024-09-04;EuroParts;Office Supplies;Production;41858;4;2930;Pending
+2023-03-05;Global Metals;Maintenance;Production;13903;29;556;Paid
+2024-10-25;NovaTrade;Raw Materials;Logistics;11941;9;478;Paid
+2023-04-06;EquipMax;Safety Equipment;IT;37444;7;3744;Pending
+2023-11-28;PrimeSupply;Raw Materials;Finance;33257;20;2328;Overdue
+2024-01-06;Global Metals;Packaging;Logistics;19892;22;1790;Pending
+2024-10-30;TechSource;Maintenance;IT;45944;16;5513;Pending
+2023-11-18;PrimeSupply;Packaging;Production;23025;15;2302;Paid
+2024-12-20;LogiTrans;Office Supplies;Finance;4991;12;100;Overdue
+2023-02-22;EuroParts;Transportation;Operations;25622;18;2818;Paid
+2023-04-08;EuroParts;IT Equipment;HR;47152;16;472;Pending
+2024-07-11;NovaTrade;Maintenance;Finance;6934;14;139;Paid
+2024-04-21;Global Metals;Safety Equipment;Logistics;38540;8;2312;Paid
+2023-03-10;EuroParts;Transportation;IT;42993;21;4299;Overdue
+2024-01-31;Alpha Industrial;Raw Materials;Operations;49853;22;1496;Overdue
+2023-12-18;NovaTrade;Office Supplies;Operations;24198;27;1452;Pending
+2024-07-24;Alpha Industrial;Transportation;Operations;20444;12;409;Overdue
+2023-02-22;PackPro;Maintenance;HR;37416;14;2245;Paid
+2023-08-29;EquipMax;Packaging;Production;40783;16;1631;Overdue
+2024-05-19;PackPro;Maintenance;Logistics;35489;11;2484;Paid
+2023-10-08;OfficePlus;Packaging;HR;2869;10;201;Pending
+2024-10-31;Global Metals;Packaging;HR;46127;7;5535;Pending
+2023-04-14;EquipMax;IT Equipment;Operations;28364;19;2553;Paid
+2024-07-25;EuroParts;Office Supplies;HR;30474;7;2438;Pending
+2024-11-16;OfficePlus;Transportation;HR;12540;23;1505;Overdue
+2024-10-15;PrimeSupply;Transportation;Operations;28442;12;2275;Overdue
+2024-06-05;PackPro;Transportation;Operations;42955;30;2148;Pending
+2023-12-12;EquipMax;Machinery;Production;30740;16;1230;Pending
+2024-07-30;TechSource;Office Supplies;Logistics;4306;16;301;Overdue
+2024-03-12;OfficePlus;Raw Materials;Logistics;30679;11;2454;Overdue
+2024-03-25;NovaTrade;Office Supplies;Operations;19077;13;2098;Pending
+2023-07-16;LogiTrans;Office Supplies;Operations;37618;30;1129;Paid
+2024-01-10;PrimeSupply;IT Equipment;Logistics;42061;19;4206;Pending
+2023-12-28;TechSource;Office Supplies;IT;46311;17;5557;Pending
+2023-12-13;Global Metals;Packaging;IT;24449;14;978;Paid
+2024-12-07;TechSource;Transportation;Finance;30328;19;607;Overdue
+2023-05-22;NovaTrade;Safety Equipment;Logistics;44730;17;3578;Paid
+2024-07-11;Alpha Industrial;Office Supplies;Finance;16739;28;670;Paid
+2023-12-14;TechSource;Machinery;Finance;32305;12;323;Overdue
+2024-06-30;EuroParts;Transportation;HR;20478;26;2253;Paid
+2023-09-18;Alpha Industrial;IT Equipment;Production;34707;11;347;Overdue
+2024-03-22;EuroParts;IT Equipment;HR;36368;17;4000;Overdue
+2023-11-08;Global Metals;Transportation;IT;18709;6;935;Paid
+2024-10-11;Global Metals;Maintenance;Logistics;12639;15;253;Pending
+2023-10-15;Global Metals;IT Equipment;Logistics;11363;18;227;Paid
+2024-12-06;LogiTrans;Transportation;Finance;30061;29;301;Paid
+2024-03-02;OfficePlus;Maintenance;Production;32834;28;2298;Paid
+2024-05-06;PrimeSupply;Safety Equipment;Logistics;39068;18;391;Pending
+2024-04-24;NovaTrade;Safety Equipment;Operations;17049;28;1705;Paid
+2023-03-02;NovaTrade;Machinery;HR;17150;18;172;Paid
+2023-06-23;EuroParts;Safety Equipment;Operations;31521;9;315;Paid
+2024-11-16;PackPro;Safety Equipment;IT;39440;12;1972;Overdue
+2023-04-16;PackPro;Office Supplies;Production;22530;24;1352;Pending
+2024-10-24;EuroParts;Office Supplies;Operations;46133;8;3229;Pending
+2024-06-02;NovaTrade;Safety Equipment;HR;22116;13;1769;Paid
+2023-01-25;PackPro;Machinery;Logistics;47376;25;2843;Paid
+2024-12-28;TechSource;Machinery;Logistics;3556;14;213;Paid
+2024-05-20;Alpha Industrial;Transportation;Operations;24625;20;2955;Overdue
+2023-06-02;OfficePlus;Raw Materials;Operations;9314;25;93;Paid
+2023-02-12;OfficePlus;Office Supplies;Logistics;41187;26;1236;Paid
+2023-03-18;EquipMax;Office Supplies;Logistics;42568;18;4257;Paid
+2024-08-29;OfficePlus;IT Equipment;IT;14762;29;1181;Pending
+2024-04-17;LogiTrans;Transportation;Logistics;12279;3;246;Overdue
+2024-08-16;PackPro;Packaging;HR;2174;13;109;Overdue
+2024-07-31;OfficePlus;Raw Materials;IT;11771;11;118;Overdue
+2024-03-20;EquipMax;Machinery;HR;2859;21;200;Paid
+2023-03-03;NovaTrade;Maintenance;HR;48833;26;3418;Pending
+2024-05-13;Global Metals;Raw Materials;Logistics;14175;14;284;Pending
+2024-04-06;OfficePlus;Packaging;IT;31989;20;2879;Paid
+2024-05-03;OfficePlus;Office Supplies;IT;21174;18;2117;Pending
+2024-06-30;EquipMax;Packaging;HR;46615;30;466;Overdue
+2024-04-20;PrimeSupply;Office Supplies;IT;33817;11;2705;Pending
+2023-04-08;TechSource;IT Equipment;HR;11120;13;1223;Pending
+2023-03-04;TechSource;Maintenance;Logistics;8007;29;560;Overdue
+2023-02-15;Alpha Industrial;Packaging;Logistics;49756;9;3483;Overdue
+2023-07-27;PrimeSupply;Office Supplies;HR;5974;17;60;Overdue
+2024-03-16;EuroParts;Transportation;Operations;42916;19;4292;Overdue
+2023-01-06;OfficePlus;Transportation;IT;47329;17;5679;Paid
+2024-04-13;LogiTrans;Maintenance;Operations;5982;10;718;Paid
+2024-03-23;NovaTrade;Transportation;Finance;17894;29;1789;Pending
+2024-02-20;EquipMax;Raw Materials;Finance;46293;19;5092;Overdue
+2024-05-12;PrimeSupply;IT Equipment;Finance;13837;14;1107;Overdue
+2023-08-27;PackPro;Office Supplies;Finance;46347;5;2317;Overdue
+2023-08-22;NovaTrade;Maintenance;IT;11724;6;234;Paid
+2024-03-07;LogiTrans;IT Equipment;Operations;41029;17;1641;Pending
+2024-03-16;EquipMax;Raw Materials;HR;16328;17;1796;Overdue
+2024-02-08;LogiTrans;Raw Materials;Production;12683;26;1395;Pending
+2024-03-01;EuroParts;Office Supplies;Operations;35648;17;713;Paid
+2023-01-08;TechSource;Packaging;Finance;35136;20;4216;Pending
+2023-01-09;EuroParts;Office Supplies;Operations;27583;26;1655;Pending
+2023-01-19;EuroParts;IT Equipment;Finance;35100;28;3861;Pending
+2024-01-18;EuroParts;Safety Equipment;Production;22531;5;451;Overdue
+2024-12-19;Alpha Industrial;Packaging;Operations;5972;20;239;Overdue
+2024-02-23;Alpha Industrial;Office Supplies;IT;49457;17;3462;Paid
+2024-06-10;Alpha Industrial;Maintenance;IT;27258;7;818;Overdue
+2024-02-12;OfficePlus;Transportation;Operations;15871;10;476;Paid
+2023-11-09;Global Metals;Packaging;Operations;46209;14;5083;Paid
+2024-10-08;PrimeSupply;IT Equipment;IT;30710;10;3071;Overdue
+2024-06-14;LogiTrans;IT Equipment;Operations;32740;25;1310;Paid
+2023-02-06;Global Metals;Transportation;Production;20361;28;2240;Overdue
+2023-11-28;NovaTrade;Maintenance;Logistics;6441;24;515;Pending
+2023-10-29;LogiTrans;Machinery;Operations;18699;24;2244;Overdue
+2024-08-01;PrimeSupply;Machinery;HR;2832;21;28;Pending
+2024-05-06;PrimeSupply;Raw Materials;Logistics;19470;9;1752;Overdue
+2024-11-06;PrimeSupply;Machinery;Logistics;7781;11;233;Overdue
+2023-05-08;PackPro;Transportation;HR;20198;15;2222;Overdue
+2024-02-19;Alpha Industrial;Packaging;Operations;29967;29;2997;Paid
+2024-02-23;PrimeSupply;Packaging;Operations;11427;10;343;Overdue
+2023-03-28;EquipMax;Raw Materials;IT;35374;23;354;Overdue
+2024-05-10;LogiTrans;Raw Materials;HR;31032;7;310;Paid
+2024-02-13;OfficePlus;Raw Materials;Operations;11920;23;954;Overdue
+2024-01-31;PrimeSupply;Safety Equipment;Finance;11385;25;1252;Overdue
+2023-04-19;EuroParts;Maintenance;HR;38947;15;2726;Overdue
+2023-10-28;PrimeSupply;IT Equipment;Operations;48789;16;2927;Pending
+2023-10-11;TechSource;Machinery;IT;30255;26;1815;Pending
+2024-09-10;PackPro;Safety Equipment;Logistics;48832;5;4395;Paid
+2024-11-16;Global Metals;Office Supplies;Logistics;28003;30;1680;Overdue
+2023-01-01;PrimeSupply;IT Equipment;HR;29005;24;2900;Pending
+2024-01-06;TechSource;Safety Equipment;IT;48243;8;1930;Overdue
+2024-05-03;LogiTrans;Maintenance;Finance;19818;30;396;Pending
+2024-03-15;NovaTrade;Packaging;IT;35470;4;2838;Pending
+2024-02-27;EquipMax;Safety Equipment;Operations;30768;22;923;Overdue
+2023-11-17;NovaTrade;Office Supplies;HR;2670;19;240;Pending
+2023-03-03;PackPro;Packaging;Operations;27299;12;2457;Paid
+2024-10-04;Alpha Industrial;IT Equipment;Finance;40803;3;4896;Pending
+2024-12-06;EquipMax;Packaging;Production;6161;14;739;Pending
+2024-11-01;TechSource;Office Supplies;Production;47403;6;4266;Overdue
+2023-02-08;EquipMax;Machinery;Finance;19575;21;587;Paid
+2023-06-23;TechSource;IT Equipment;Production;38499;15;1925;Paid
+2023-04-13;PackPro;Machinery;IT;19217;5;1730;Paid
+2023-08-06;EuroParts;IT Equipment;Logistics;19918;16;1793;Overdue
+2023-02-24;Global Metals;Raw Materials;HR;21278;8;1064;Paid
+2023-08-10;LogiTrans;Transportation;Finance;32232;23;645;Paid
+2024-10-15;EuroParts;Machinery;Operations;47323;7;3786;Pending
+2024-01-19;EuroParts;Safety Equipment;Operations;24934;28;2992;Paid
+2024-11-25;TechSource;Office Supplies;Production;18521;15;1667;Paid
+2024-07-03;EquipMax;Maintenance;IT;11705;4;585;Pending
+2024-02-29;Alpha Industrial;Packaging;Finance;6126;25;368;Pending
+2023-08-14;EuroParts;Transportation;IT;27424;24;274;Pending
+2023-03-16;TechSource;Maintenance;Finance;28013;26;3362;Pending
+2024-08-12;EquipMax;Maintenance;HR;22807;28;912;Paid
+2023-02-24;PrimeSupply;Raw Materials;Production;33464;13;4016;Overdue
+2023-07-05;PackPro;Safety Equipment;Operations;12438;9;498;Overdue
+2023-12-13;PackPro;Packaging;Operations;9084;28;273;Pending
+2023-06-23;LogiTrans;IT Equipment;Operations;47197;29;2360;Overdue
+2024-12-23;PrimeSupply;Safety Equipment;Production;11573;25;1389;Paid
+2023-02-08;EuroParts;Raw Materials;Logistics;33154;5;3978;Overdue
+2023-10-08;EquipMax;Safety Equipment;HR;42497;19;850;Paid
+2023-10-14;LogiTrans;Maintenance;HR;22885;4;229;Paid
+2023-01-16;PackPro;Safety Equipment;Logistics;30791;8;616;Paid
+2023-07-29;NovaTrade;Raw Materials;IT;49697;11;5964;Paid
+2024-10-10;TechSource;Packaging;Finance;19984;17;600;Overdue
+2024-06-03;TechSource;Transportation;HR;40252;20;1610;Pending
+2024-09-06;Alpha Industrial;Maintenance;Finance;46866;9;3749;Pending
+2024-03-01;OfficePlus;Transportation;Production;26949;26;2695;Paid
+2024-12-15;OfficePlus;Office Supplies;Operations;35305;18;1059;Paid
+2024-04-08;PackPro;Transportation;IT;31304;14;3443;Overdue
+2023-12-03;Global Metals;Raw Materials;HR;44622;26;4016;Paid
+2024-03-08;PackPro;Raw Materials;IT;17033;19;681;Pending
+2023-01-28;EuroParts;Packaging;Finance;34933;24;4192;Paid
+2024-01-29;Alpha Industrial;Safety Equipment;Production;35877;6;3946;Paid
+2023-09-16;PackPro;Transportation;Operations;30491;9;1220;Paid
+2024-01-22;Global Metals;Safety Equipment;Logistics;41666;26;2500;Paid
+2024-07-21;PackPro;Packaging;Logistics;47944;17;1438;Paid
+2024-04-18;PrimeSupply;Maintenance;Operations;3292;4;132;Paid
+2023-09-26;LogiTrans;Packaging;Finance;6898;30;207;Pending
+2024-04-21;EquipMax;Office Supplies;HR;10452;30;418;Paid
+2024-07-02;OfficePlus;IT Equipment;HR;16916;3;1861;Paid
+2024-03-28;OfficePlus;Raw Materials;Operations;22939;28;2523;Pending
+2023-11-18;LogiTrans;Raw Materials;Logistics;38237;19;1147;Paid
+2023-06-09;OfficePlus;IT Equipment;HR;33230;16;997;Overdue
+2023-04-06;EuroParts;Maintenance;Operations;37915;13;2654;Overdue
+2024-07-19;NovaTrade;Packaging;Production;9899;16;495;Paid
+2023-08-13;PrimeSupply;Transportation;IT;30535;13;3359;Overdue
+2023-07-01;NovaTrade;Maintenance;Operations;21549;4;215;Overdue
+2024-03-30;PrimeSupply;IT Equipment;Logistics;31489;15;1260;Paid
+2023-08-14;Alpha Industrial;Transportation;Operations;44517;9;4897;Paid
+2024-12-14;TechSource;IT Equipment;Logistics;8148;15;733;Paid
+2023-05-18;LogiTrans;Maintenance;Production;46883;30;469;Pending
+2024-10-01;Global Metals;Packaging;HR;3748;19;150;Overdue
+2024-03-03;OfficePlus;Machinery;HR;10188;21;1223;Paid
+2023-07-25;LogiTrans;Machinery;Logistics;27232;6;817;Pending
+2023-12-17;EquipMax;Transportation;Logistics;27130;11;2984;Paid
+2023-01-16;EquipMax;IT Equipment;Operations;46625;23;3730;Pending
+2023-04-15;PackPro;Transportation;HR;19026;22;761;Pending
+2024-05-20;OfficePlus;Machinery;HR;33488;9;2344;Overdue
+2023-05-14;EquipMax;Packaging;Production;49162;9;1966;Pending
+2023-01-09;EquipMax;Office Supplies;IT;4930;24;246;Paid
+2024-08-19;TechSource;Raw Materials;HR;25013;15;2501;Paid
+2023-03-24;Alpha Industrial;Machinery;IT;16677;12;167;Paid
+2023-09-29;PackPro;Raw Materials;HR;8694;19;261;Paid
+2023-02-25;PrimeSupply;Raw Materials;HR;22938;9;688;Overdue
+2024-11-05;LogiTrans;Maintenance;HR;46168;12;5078;Paid
+2024-10-29;PackPro;Safety Equipment;IT;29423;10;294;Pending
+2023-03-11;EquipMax;IT Equipment;Operations;10574;15;317;Paid
+2023-03-31;NovaTrade;Raw Materials;Logistics;48019;9;480;Paid
+2024-08-13;Global Metals;Maintenance;Logistics;19509;14;1951;Paid
+2023-11-17;LogiTrans;Raw Materials;Operations;21857;20;1749;Pending
+2023-02-22;LogiTrans;Safety Equipment;IT;39836;23;1992;Pending
+2023-11-10;PrimeSupply;Packaging;Production;14767;20;295;Pending
+2024-01-03;PrimeSupply;Office Supplies;Finance;25821;8;258;Paid
+2023-11-01;TechSource;Transportation;Logistics;24411;4;1221;Paid
+2024-05-19;Global Metals;Transportation;Logistics;30118;4;2711;Paid
+2023-12-21;NovaTrade;IT Equipment;Production;39309;18;3145;Paid
+2024-05-01;LogiTrans;Maintenance;Logistics;8563;20;343;Paid
+2023-08-02;EuroParts;Safety Equipment;Logistics;4746;26;190;Pending
+2023-06-22;OfficePlus;Transportation;IT;30634;11;1838;Paid
+2023-06-05;EuroParts;Safety Equipment;Production;44193;29;5303;Paid
+2024-09-16;Global Metals;Maintenance;Production;18414;6;552;Overdue
+2024-03-29;TechSource;Transportation;Operations;31900;27;1276;Overdue
+2024-10-31;EuroParts;Machinery;Production;20955;13;1467;Pending
+2024-06-06;EquipMax;Maintenance;HR;10620;21;637;Paid
+2024-02-11;TechSource;Machinery;HR;16558;24;828;Paid
+2024-03-02;Alpha Industrial;Office Supplies;Finance;39519;12;395;Paid
+2024-12-30;EquipMax;Maintenance;Operations;42336;6;5080;Paid
+2024-01-03;LogiTrans;Safety Equipment;IT;39178;14;1959;Pending
+2023-12-30;Alpha Industrial;Machinery;Finance;6236;9;624;Overdue
+2024-08-10;EuroParts;Office Supplies;HR;13671;30;547;Pending
+2024-02-23;NovaTrade;Raw Materials;HR;48672;30;1460;Paid
+2023-10-13;EuroParts;Transportation;Production;7926;8;634;Overdue
+2023-04-07;PackPro;Office Supplies;Operations;9010;6;270;Paid
+2024-10-14;Global Metals;Packaging;Production;31663;29;1267;Paid
+2023-04-11;EuroParts;Packaging;Logistics;21858;25;437;Overdue
+2023-09-13;EquipMax;Maintenance;IT;17966;27;1078;Overdue
+2023-07-13;OfficePlus;Raw Materials;IT;49686;29;497;Paid
+2023-05-05;LogiTrans;Machinery;Finance;9496;8;855;Paid
+2024-10-12;NovaTrade;Maintenance;Operations;24302;10;2187;Paid
+2023-05-28;PrimeSupply;Packaging;Operations;26036;20;521;Overdue
+2023-06-06;Global Metals;Office Supplies;Finance;37457;20;2997;Paid
+2024-05-17;LogiTrans;Machinery;Production;32810;14;3937;Overdue
+2024-05-22;NovaTrade;Packaging;Finance;5093;12;458;Paid
+2024-05-11;PackPro;Office Supplies;Production;30346;12;3035;Paid
+2024-09-17;OfficePlus;Transportation;HR;36244;27;362;Overdue
+2024-03-09;LogiTrans;Transportation;IT;38933;11;3893;Overdue
+2023-05-27;PackPro;Packaging;Logistics;3496;6;245;Pending
+2023-11-16;EuroParts;Machinery;IT;31267;26;2189;Overdue
+2023-10-31;PrimeSupply;Transportation;Production;43606;4;3052;Pending
+2023-11-07;TechSource;Raw Materials;Operations;17330;9;1040;Pending
+2023-02-17;EquipMax;Raw Materials;HR;5160;14;619;Overdue
+2023-06-24;OfficePlus;Packaging;HR;23973;25;2877;Pending
+2024-02-04;TechSource;IT Equipment;IT;35697;29;4284;Pending
+2023-04-13;EuroParts;Maintenance;HR;41036;12;2462;Paid
+2024-10-10;LogiTrans;Machinery;IT;41662;12;2083;Paid
+2024-06-30;TechSource;IT Equipment;Logistics;49566;25;1487;Paid
+2024-09-27;LogiTrans;Raw Materials;Logistics;39171;10;1567;Overdue
+2024-06-24;EuroParts;Packaging;Operations;16016;27;641;Pending
+2024-11-17;PrimeSupply;Packaging;HR;19173;24;2109;Paid
+2023-04-18;NovaTrade;Office Supplies;Logistics;2512;10;100;Pending
+2023-08-04;Alpha Industrial;IT Equipment;Logistics;49730;3;3978;Paid
+2024-09-06;Alpha Industrial;Transportation;IT;14756;25;885;Overdue
+2024-11-04;LogiTrans;Packaging;Logistics;26314;30;2105;Overdue
+2023-03-30;PrimeSupply;Raw Materials;Production;17583;3;1934;Paid
+2024-04-07;EquipMax;Packaging;Operations;40961;27;1229;Overdue
+2024-08-19;Global Metals;Safety Equipment;Finance;26407;15;2113;Overdue
+2023-12-14;NovaTrade;Safety Equipment;Logistics;3841;25;423;Overdue
+2024-10-01;PrimeSupply;Machinery;Operations;46518;23;2791;Overdue
+2024-04-01;LogiTrans;Office Supplies;Finance;42258;30;4226;Pending
+2023-07-02;EuroParts;Maintenance;HR;17338;5;1907;Paid
+2023-02-14;TechSource;Maintenance;Logistics;43959;23;879;Pending
+2023-07-18;NovaTrade;Transportation;HR;29933;27;1497;Paid
+2023-03-22;Alpha Industrial;Packaging;Operations;40908;21;4091;Overdue
+2024-07-08;EuroParts;Raw Materials;HR;49331;15;987;Paid
+2023-08-28;PrimeSupply;Transportation;Operations;43787;29;1314;Pending
+2024-04-11;TechSource;Office Supplies;IT;36829;23;2210;Pending
+2023-07-25;Alpha Industrial;Packaging;IT;27570;9;1654;Overdue
+2024-11-08;OfficePlus;Raw Materials;HR;18210;30;1093;Overdue
+2023-05-23;NovaTrade;Maintenance;Logistics;47309;9;2365;Paid
+2024-09-30;PackPro;Maintenance;HR;37792;24;3779;Pending
+2023-03-06;LogiTrans;Packaging;Finance;33100;3;2648;Paid
+2024-06-08;PackPro;Machinery;HR;19568;15;1761;Overdue
+2024-03-16;TechSource;Maintenance;IT;48856;23;4886;Paid
+2023-05-09;OfficePlus;IT Equipment;Production;44930;10;4493;Paid
+2024-01-10;PrimeSupply;Office Supplies;Production;10567;18;1057;Pending
+2024-09-20;NovaTrade;Maintenance;IT;47208;9;5665;Paid
+2023-06-23;LogiTrans;Raw Materials;IT;46934;4;2816;Paid
+2023-06-11;Alpha Industrial;Transportation;Logistics;22075;12;442;Paid
+2024-12-27;EuroParts;Machinery;Logistics;7252;24;145;Pending
+2024-05-17;Global Metals;Safety Equipment;Logistics;2753;12;165;Pending
+2023-05-22;TechSource;Machinery;Operations;42294;3;3806;Pending
+2023-04-17;LogiTrans;Packaging;IT;24529;15;1472;Paid
+2023-08-30;PrimeSupply;Maintenance;Finance;10560;29;422;Overdue
+2023-03-09;Alpha Industrial;Maintenance;IT;20378;9;611;Pending
+2023-01-30;Alpha Industrial;Office Supplies;Operations;38317;19;1916;Overdue
+2024-12-11;Alpha Industrial;Machinery;Production;27327;15;1640;Paid
+2023-11-18;LogiTrans;IT Equipment;Finance;2875;28;144;Overdue
+2023-12-05;TechSource;Safety Equipment;IT;30453;26;305;Overdue
+2024-09-08;LogiTrans;IT Equipment;HR;29338;13;587;Paid
+2024-01-06;OfficePlus;Safety Equipment;Production;26826;15;2414;Overdue
+2024-02-24;TechSource;Maintenance;Logistics;14012;5;701;Paid
+2023-05-22;LogiTrans;Raw Materials;Logistics;18537;11;2224;Pending
+2023-06-23;OfficePlus;Packaging;Operations;25164;17;1258;Overdue
+2023-07-28;PackPro;Office Supplies;HR;35530;9;4264;Overdue
+2024-06-12;OfficePlus;Safety Equipment;Finance;25383;24;2792;Pending
+2024-10-17;Alpha Industrial;Raw Materials;IT;47550;8;2853;Pending
+2023-07-01;EquipMax;Safety Equipment;IT;10826;7;1191;Overdue
+2023-11-14;PackPro;Safety Equipment;HR;44586;17;4013;Paid
+2024-02-07;OfficePlus;Maintenance;Production;23834;4;715;Pending
+2023-08-05;TechSource;Transportation;IT;9504;13;570;Overdue
+2024-02-25;NovaTrade;Maintenance;Operations;14415;13;1009;Pending
+2024-05-14;EquipMax;IT Equipment;Finance;38485;11;3079;Pending
+2023-09-15;OfficePlus;Packaging;Operations;15000;9;450;Paid
+2024-07-06;PrimeSupply;IT Equipment;Operations;43202;25;1728;Overdue
+2023-08-17;PackPro;Machinery;Operations;39287;15;3929;Overdue
+2024-09-18;PrimeSupply;Transportation;HR;33767;23;2026;Overdue
+2023-10-27;EuroParts;Machinery;HR;47373;23;2369;Overdue
+2023-12-13;EquipMax;IT Equipment;IT;13201;23;924;Paid
+2023-08-27;PackPro;Maintenance;HR;7387;5;148;Pending
+2024-04-18;EuroParts;Maintenance;IT;46313;10;5094;Overdue
+2024-11-05;NovaTrade;IT Equipment;Production;2220;4;244;Overdue
+2023-10-23;NovaTrade;Office Supplies;Operations;41411;11;3313;Pending
+2024-06-09;PrimeSupply;Maintenance;Finance;29808;29;1192;Paid
+2023-04-21;EuroParts;Packaging;Production;45253;21;2715;Paid
+2023-07-09;NovaTrade;Transportation;Logistics;35239;11;1762;Pending
+2024-10-14;Global Metals;Maintenance;IT;38845;12;3108;Paid
+2023-10-22;LogiTrans;Safety Equipment;Production;5869;27;352;Paid
+2024-01-02;Global Metals;Maintenance;IT;4141;5;456;Overdue
+2024-10-18;NovaTrade;Safety Equipment;HR;16860;25;1349;Pending
+2023-08-20;Alpha Industrial;Maintenance;Production;40514;15;1215;Pending
+2024-12-06;NovaTrade;Safety Equipment;HR;17657;22;883;Overdue
+2024-08-01;Alpha Industrial;Maintenance;HR;11140;13;780;Pending
+2023-02-09;Alpha Industrial;Office Supplies;Operations;41462;17;4561;Overdue
+2024-09-05;Alpha Industrial;Transportation;Logistics;47494;20;2375;Overdue
+2023-02-24;LogiTrans;Machinery;IT;17073;30;512;Pending
+2024-09-10;NovaTrade;Maintenance;Production;34395;24;2752;Pending
+2023-06-13;Alpha Industrial;Safety Equipment;Finance;15120;15;151;Overdue
+2023-05-26;NovaTrade;Transportation;Production;33139;26;663;Paid
+2024-08-17;NovaTrade;Maintenance;Logistics;13488;20;674;Paid
+2024-01-06;Global Metals;Machinery;Operations;3145;25;126;Paid
+2024-01-01;OfficePlus;Raw Materials;Operations;45886;7;3212;Paid
+2023-03-22;Global Metals;Maintenance;Finance;7309;3;73;Overdue
+2023-08-20;Alpha Industrial;Transportation;Logistics;41221;14;2885;Overdue
+2023-03-02;PrimeSupply;Packaging;Logistics;6036;18;121;Pending
+2024-07-07;NovaTrade;Safety Equipment;Logistics;29877;6;3585;Overdue
+2023-06-04;PrimeSupply;IT Equipment;Production;4947;28;495;Paid
+2023-01-01;Alpha Industrial;Machinery;HR;8365;13;753;Paid
+2023-04-08;Alpha Industrial;IT Equipment;Logistics;13829;26;1106;Pending
+2024-12-13;EquipMax;Transportation;IT;25723;26;2315;Pending
+2023-10-05;Alpha Industrial;Machinery;IT;8167;23;245;Paid
+2024-04-27;Alpha Industrial;Office Supplies;Production;15222;10;609;Overdue
+2024-09-10;PackPro;Machinery;Finance;13157;29;132;Paid
+2024-06-16;PackPro;IT Equipment;HR;47588;8;3807;Overdue
+2024-02-05;Alpha Industrial;IT Equipment;Operations;15921;6;1911;Pending
+2024-09-23;TechSource;Transportation;Operations;16547;24;662;Pending
+2023-04-14;Global Metals;Safety Equipment;IT;46170;16;1847;Overdue
+2023-02-05;TechSource;Office Supplies;Operations;12975;14;1557;Overdue
+2023-11-06;PrimeSupply;IT Equipment;Operations;32942;8;3953;Pending
+2023-11-20;TechSource;Raw Materials;HR;47804;4;5736;Paid
+2023-01-20;OfficePlus;Safety Equipment;Operations;36845;30;1474;Paid
+2024-09-25;EquipMax;Maintenance;IT;18245;6;2189;Paid
+2023-10-12;TechSource;Raw Materials;Production;21997;11;1980;Overdue
+2024-12-04;TechSource;Safety Equipment;Finance;29731;12;3568;Overdue
+2023-05-26;NovaTrade;Machinery;HR;45584;28;456;Paid
+2024-09-08;EquipMax;Transportation;IT;10485;9;1258;Overdue
+2024-03-04;PackPro;Transportation;Production;35863;8;2152;Pending
+2024-10-26;Alpha Industrial;Safety Equipment;IT;15995;13;800;Overdue
+2024-04-10;PrimeSupply;Transportation;Logistics;47902;22;2395;Pending
+2024-09-18;Global Metals;Transportation;Operations;48383;5;968;Paid
+2024-04-11;EquipMax;Packaging;HR;8182;27;164;Pending
+2023-04-25;Alpha Industrial;Maintenance;Finance;17219;20;2066;Pending
+2024-12-03;TechSource;Raw Materials;IT;49686;27;1987;Overdue
+2023-07-10;Global Metals;IT Equipment;Production;10346;4;310;Overdue
+2023-03-28;NovaTrade;Transportation;IT;7429;9;297;Pending
+2023-12-06;Global Metals;Maintenance;HR;22027;9;2423;Paid
+2023-08-19;PackPro;Transportation;Production;42012;4;3361;Overdue
+2024-03-06;PackPro;Maintenance;Operations;40488;7;3644;Overdue
+2024-12-23;EquipMax;Machinery;HR;3239;18;389;Pending
+2023-07-30;EuroParts;Maintenance;Finance;9526;5;667;Overdue
+2024-05-13;PackPro;Machinery;IT;25198;21;2016;Paid
+2023-08-01;NovaTrade;Packaging;Finance;44796;13;2688;Overdue
+2024-05-03;EquipMax;Transportation;Logistics;27432;17;2195;Overdue
+2024-06-30;TechSource;Raw Materials;Finance;38651;18;773;Overdue
+2024-02-01;TechSource;IT Equipment;IT;28969;9;869;Pending
+2024-07-01;LogiTrans;Machinery;HR;22779;18;911;Overdue
+2024-05-13;OfficePlus;IT Equipment;Operations;31218;3;2810;Overdue
+2023-11-12;LogiTrans;Packaging;Production;45376;10;4538;Overdue
+2024-04-28;LogiTrans;Safety Equipment;HR;21899;21;2190;Overdue
+2023-03-07;EquipMax;Raw Materials;Operations;45018;20;4952;Paid
+2023-03-22;PrimeSupply;Transportation;Operations;7553;29;680;Overdue
+2023-09-26;OfficePlus;Raw Materials;Production;28156;20;563;Paid
+2023-08-28;NovaTrade;Packaging;Logistics;32131;26;1285;Paid
+2024-03-07;OfficePlus;IT Equipment;IT;46954;15;3287;Overdue
+2024-11-18;EquipMax;Packaging;Operations;5569;25;167;Overdue
+2023-01-26;EquipMax;IT Equipment;HR;40148;3;2007;Pending
+2023-12-08;Alpha Industrial;Maintenance;Operations;34980;17;350;Overdue
+2023-11-26;NovaTrade;Safety Equipment;IT;14460;24;723;Paid
+2024-11-21;PrimeSupply;Maintenance;Finance;47875;9;479;Pending
+2024-04-07;EquipMax;Machinery;HR;4948;6;247;Overdue
+2024-05-20;Global Metals;Office Supplies;IT;47413;17;3319;Pending
+2023-10-30;OfficePlus;Maintenance;Production;3110;25;218;Overdue
+2024-10-06;LogiTrans;Maintenance;HR;16112;21;1933;Paid
+2023-03-07;EquipMax;Maintenance;Production;24817;25;2482;Pending
+2024-11-03;LogiTrans;Raw Materials;HR;44232;29;1327;Overdue
+2024-04-17;EquipMax;Machinery;Production;46640;18;2332;Overdue
+2024-05-05;PackPro;IT Equipment;Production;3311;6;199;Paid
+2024-08-11;TechSource;Packaging;IT;7436;24;149;Pending
+2023-05-30;Global Metals;Office Supplies;Operations;2322;19;70;Overdue
+2023-11-01;Global Metals;IT Equipment;Logistics;28292;18;1132;Pending
+2024-06-09;TechSource;Safety Equipment;IT;7903;21;395;Paid
+2023-08-20;NovaTrade;Machinery;IT;14655;25;586;Pending
+2023-03-27;OfficePlus;Maintenance;Finance;31952;15;1278;Paid
+2023-08-09;PrimeSupply;Machinery;Operations;17190;9;1891;Pending
+2024-02-17;OfficePlus;Maintenance;Production;37390;23;4113;Paid
+2024-06-24;TechSource;Transportation;IT;9268;4;371;Pending
+2024-05-15;Alpha Industrial;Packaging;Finance;30429;12;3347;Overdue
+2023-02-10;PackPro;Safety Equipment;IT;10856;13;543;Paid
+2023-09-19;EuroParts;Transportation;HR;30829;12;308;Pending
+2023-02-03;OfficePlus;Raw Materials;HR;45906;7;2754;Overdue
+2024-08-01;TechSource;Transportation;Operations;39790;29;3581;Paid
+2023-07-12;Alpha Industrial;Transportation;Operations;8483;14;170;Paid
+2024-01-27;EquipMax;Packaging;Finance;34176;13;2734;Pending
+2024-10-11;Global Metals;Office Supplies;Finance;41259;13;3301;Overdue
+2024-12-23;NovaTrade;Office Supplies;IT;49497;8;4455;Paid
+2024-11-01;PrimeSupply;Machinery;Finance;15102;8;302;Overdue
+2023-02-15;Global Metals;Machinery;Logistics;6536;18;327;Overdue
+2023-02-03;PrimeSupply;Maintenance;Operations;16616;14;332;Paid
+2023-05-08;NovaTrade;IT Equipment;Operations;3231;30;194;Pending
+2024-04-29;PrimeSupply;Maintenance;IT;12073;26;1207;Paid
+2023-10-10;NovaTrade;Packaging;Operations;18918;26;946;Overdue
+2023-02-03;NovaTrade;Machinery;HR;41738;29;5009;Paid
+2024-06-28;Global Metals;Maintenance;Finance;10120;21;911;Overdue
+2024-10-27;TechSource;Transportation;Finance;15126;28;1815;Overdue
+2024-01-25;PrimeSupply;Packaging;Finance;13747;9;550;Overdue
+2023-02-05;Alpha Industrial;Maintenance;Production;28302;30;1415;Overdue
+2024-07-08;Global Metals;IT Equipment;Logistics;48059;30;5767;Paid
+2023-09-16;OfficePlus;Raw Materials;IT;29432;20;3532;Pending
+2024-06-04;OfficePlus;IT Equipment;Finance;3260;3;326;Paid
+2023-03-27;Alpha Industrial;Safety Equipment;Finance;6444;27;580;Pending
+2023-08-30;Global Metals;Safety Equipment;Production;23472;14;235;Paid
+2023-11-15;Alpha Industrial;Packaging;HR;28954;6;290;Pending
+2023-06-14;Alpha Industrial;Transportation;Logistics;33180;28;2654;Paid
+2023-03-09;NovaTrade;Transportation;Production;14698;19;294;Paid
+2023-12-28;LogiTrans;Packaging;Production;26213;30;524;Overdue
+2024-05-03;PackPro;Transportation;Logistics;17341;27;694;Paid
+2023-08-27;TechSource;Packaging;HR;7468;15;747;Pending
+2023-03-26;EuroParts;Office Supplies;Operations;5150;21;206;Pending
+2024-04-19;NovaTrade;IT Equipment;Finance;11555;12;1387;Pending
+2023-03-21;PackPro;IT Equipment;Production;44129;20;441;Paid
+2024-09-01;NovaTrade;Machinery;IT;9372;22;94;Pending
+2023-03-22;OfficePlus;Machinery;Finance;22694;29;227;Overdue
+2024-03-02;LogiTrans;Office Supplies;Finance;7948;8;477;Pending
+2024-02-24;PackPro;Office Supplies;Operations;36269;19;363;Paid
+2023-07-30;Alpha Industrial;IT Equipment;IT;43459;19;1304;Pending
+2024-11-07;PackPro;Safety Equipment;Logistics;36574;19;3292;Overdue
+2024-01-11;Global Metals;Transportation;HR;31159;14;2804;Overdue
+2023-09-12;PrimeSupply;Raw Materials;IT;22662;5;2493;Overdue
+2023-02-22;PackPro;Transportation;Production;30822;23;2466;Overdue
+2024-07-10;Alpha Industrial;Safety Equipment;IT;25812;17;2323;Paid
+2024-04-14;EuroParts;Maintenance;Finance;25525;11;2042;Pending
+2023-02-06;PackPro;Maintenance;IT;29759;28;298;Pending
+2023-02-28;PackPro;Safety Equipment;Production;41088;19;4109;Paid
+2023-07-24;PrimeSupply;Office Supplies;IT;49939;10;1998;Pending
+2024-05-11;NovaTrade;Maintenance;Operations;23939;20;1915;Overdue
+2023-07-09;LogiTrans;Office Supplies;IT;17431;10;697;Paid
+2024-05-24;PrimeSupply;Safety Equipment;HR;27488;7;2749;Overdue
+2023-04-18;TechSource;Machinery;Finance;41942;16;2097;Pending
+2023-11-03;OfficePlus;Transportation;HR;14497;5;1015;Overdue
+2023-09-29;OfficePlus;Maintenance;HR;15086;14;1509;Pending
+2024-06-02;PrimeSupply;IT Equipment;Operations;16536;12;496;Pending
+2023-12-22;Alpha Industrial;Safety Equipment;Finance;45130;16;4062;Pending
+2023-10-01;TechSource;Office Supplies;IT;46373;10;4637;Overdue
+2023-07-23;NovaTrade;Raw Materials;IT;19561;5;978;Overdue
+2024-09-12;PackPro;Packaging;IT;25475;10;2038;Pending
+2023-08-10;Alpha Industrial;Packaging;Logistics;14961;18;1047;Pending
+2024-07-10;EuroParts;Raw Materials;Logistics;32084;23;321;Pending
+2024-03-28;OfficePlus;Maintenance;Production;3457;25;415;Paid
+2023-12-19;NovaTrade;Transportation;Production;39824;10;796;Overdue
+2024-04-05;TechSource;Machinery;Logistics;42136;16;2528;Overdue
+2024-09-24;Global Metals;Maintenance;Logistics;44912;18;1347;Overdue
+2024-12-08;OfficePlus;Maintenance;Finance;32181;24;322;Pending
+2024-09-14;Global Metals;Transportation;Logistics;7534;18;904;Paid
+2024-05-28;PrimeSupply;Packaging;Logistics;46335;19;4170;Overdue
+2023-09-13;EquipMax;Transportation;Finance;31691;19;317;Pending
+2024-08-29;TechSource;IT Equipment;Operations;7955;5;875;Paid
+2023-07-30;OfficePlus;IT Equipment;HR;28788;6;2591;Overdue
+2024-12-25;PackPro;Raw Materials;Operations;32697;12;981;Overdue
+2023-03-01;TechSource;Raw Materials;Finance;41565;17;4156;Paid
+2024-05-09;TechSource;Packaging;Logistics;48315;4;1933;Overdue
+2023-09-29;EuroParts;IT Equipment;IT;16080;17;965;Overdue
+2023-06-07;PrimeSupply;IT Equipment;Finance;27720;16;2772;Paid
+2024-03-02;PackPro;Maintenance;Logistics;10706;17;428;Pending
+2023-10-09;EuroParts;Transportation;Operations;27213;19;3266;Paid
+2023-01-15;EuroParts;Machinery;Finance;39352;7;2755;Paid
+2024-02-21;TechSource;Safety Equipment;Operations;10579;15;846;Overdue
+2024-02-06;OfficePlus;Raw Materials;Operations;17820;6;1782;Paid
+2023-12-12;EuroParts;Safety Equipment;IT;20812;20;2289;Overdue
+2024-01-15;Alpha Industrial;Transportation;IT;6711;11;604;Pending
+2023-07-23;NovaTrade;Raw Materials;IT;37097;23;1113;Paid
+2023-01-09;TechSource;Office Supplies;Operations;17455;13;2095;Paid
+2023-01-14;OfficePlus;Raw Materials;Finance;43750;30;875;Overdue
+2023-08-02;PackPro;Raw Materials;Finance;36081;14;2526;Overdue
+2023-02-10;TechSource;IT Equipment;IT;36631;17;3663;Paid
+2024-12-27;NovaTrade;Raw Materials;Finance;25925;20;2852;Overdue
+2024-11-12;LogiTrans;Safety Equipment;Logistics;32425;15;3242;Pending
+2024-09-16;Global Metals;Transportation;Logistics;40436;15;4448;Overdue
+2023-09-11;TechSource;Packaging;Logistics;2744;19;220;Paid
+2023-01-22;PrimeSupply;Machinery;Operations;9234;20;923;Overdue
+2024-02-10;TechSource;Packaging;Finance;10066;10;302;Overdue
+2024-09-04;Alpha Industrial;Safety Equipment;Operations;49325;21;986;Paid
+2024-03-21;NovaTrade;Raw Materials;HR;38947;15;4284;Pending
+2024-12-28;NovaTrade;Machinery;Operations;25661;7;1540;Pending
+2024-03-28;EuroParts;Transportation;Production;19201;3;1536;Paid
+2023-07-18;NovaTrade;IT Equipment;Operations;17237;6;1207;Pending
+2024-11-07;PrimeSupply;Transportation;HR;23403;15;1404;Pending
+2024-06-30;Global Metals;Safety Equipment;HR;2031;17;223;Paid
+2023-10-19;PackPro;Maintenance;Operations;35534;26;355;Overdue
+2023-10-18;TechSource;Office Supplies;Production;25671;30;2824;Paid
+2024-04-05;LogiTrans;Machinery;Logistics;42545;28;2553;Pending
+2023-10-17;Global Metals;Packaging;IT;14422;21;1154;Overdue
+2024-01-26;PrimeSupply;Maintenance;Finance;19128;12;383;Overdue
+2024-07-30;Alpha Industrial;Packaging;Operations;34905;16;349;Paid
+2023-09-23;EuroParts;IT Equipment;IT;6604;8;132;Paid
+2024-11-27;OfficePlus;Maintenance;HR;16938;20;1863;Overdue
+2024-12-28;Global Metals;Office Supplies;Operations;35009;17;2101;Overdue
+2023-07-21;TechSource;Packaging;Production;47791;4;3823;Overdue
+2024-09-09;NovaTrade;Transportation;HR;28533;16;571;Paid
+2023-04-17;Global Metals;Safety Equipment;Finance;36885;23;3320;Paid
+2024-05-25;Alpha Industrial;Safety Equipment;HR;3974;7;159;Overdue
+2024-12-06;Global Metals;Packaging;Production;36846;20;2579;Paid
+2023-11-07;OfficePlus;Office Supplies;HR;26355;26;2108;Paid
+2024-02-17;TechSource;Transportation;Operations;41006;23;4101;Pending
+2023-09-14;Alpha Industrial;Office Supplies;IT;45535;8;4098;Pending
+2023-05-07;PackPro;Raw Materials;IT;15336;6;1840;Overdue
+2024-03-21;PrimeSupply;Safety Equipment;IT;13588;8;679;Pending
+2024-05-08;LogiTrans;Office Supplies;IT;10990;6;220;Paid
+2023-09-02;PrimeSupply;Maintenance;Logistics;9230;18;831;Overdue
+2024-04-13;PackPro;IT Equipment;Production;18863;24;1320;Overdue
+2024-07-04;LogiTrans;Packaging;HR;23410;5;2575;Overdue
+2023-09-09;TechSource;Office Supplies;Logistics;4290;11;172;Paid
+2023-10-23;EuroParts;Transportation;HR;7428;25;149;Paid
+2023-09-09;OfficePlus;IT Equipment;Production;26596;22;1064;Paid
+2023-05-26;Alpha Industrial;Transportation;Operations;26178;8;2094;Pending
+2023-03-28;OfficePlus;Machinery;Logistics;34818;24;3830;Pending
+2023-12-02;EquipMax;Packaging;Finance;24606;4;1230;Paid
+2024-06-25;NovaTrade;Office Supplies;Operations;4253;30;85;Overdue
+2024-04-26;Alpha Industrial;Raw Materials;HR;32047;3;2564;Paid
+2023-11-02;EquipMax;Safety Equipment;Production;28431;23;1422;Overdue
+2024-07-04;LogiTrans;Safety Equipment;Operations;16804;8;1848;Pending
+2024-07-08;Global Metals;Raw Materials;HR;40216;23;2413;Paid
+2023-10-29;LogiTrans;IT Equipment;IT;42732;24;2991;Pending
+2023-10-25;NovaTrade;Raw Materials;Operations;25690;7;2312;Overdue
+2024-03-28;OfficePlus;Transportation;Logistics;25754;8;1030;Paid
+2024-01-20;PackPro;Safety Equipment;Operations;20323;19;1626;Paid
+2024-11-30;TechSource;Raw Materials;Logistics;12162;29;973;Overdue
+2024-07-03;Alpha Industrial;Maintenance;IT;17642;26;353;Pending
+2023-12-14;EuroParts;Raw Materials;Logistics;45469;11;2273;Paid
+2024-12-02;PackPro;Maintenance;Production;8579;20;772;Overdue
+2024-07-29;EquipMax;Office Supplies;IT;13106;25;917;Paid
+2023-07-22;PrimeSupply;Safety Equipment;Logistics;48366;10;1935;Pending
+2023-08-22;NovaTrade;Safety Equipment;IT;40366;15;1615;Paid
+2024-03-04;LogiTrans;Packaging;HR;48818;10;5858;Paid
+2023-04-25;Global Metals;Transportation;Production;30078;23;2707;Overdue
+2023-05-08;PrimeSupply;Office Supplies;Finance;48629;5;4863;Paid
+2023-12-07;NovaTrade;Packaging;Finance;10618;8;425;Pending
+2023-02-03;NovaTrade;Packaging;Logistics;38029;17;4183;Overdue
+2023-12-11;PackPro;Office Supplies;Production;24815;30;1241;Paid
+2023-04-04;OfficePlus;Safety Equipment;Finance;10610;28;1167;Pending
+2024-02-15;NovaTrade;Transportation;HR;14950;27;150;Paid
+2024-11-23;PackPro;IT Equipment;Operations;14114;22;1553;Overdue
+2024-07-19;PrimeSupply;Transportation;Finance;26647;9;1599;Pending
+2024-03-30;PrimeSupply;IT Equipment;HR;49742;3;995;Overdue
+2024-04-06;Alpha Industrial;Safety Equipment;Finance;20770;7;831;Paid
+2024-03-04;Global Metals;Transportation;Finance;7064;18;494;Pending
+2023-12-06;TechSource;IT Equipment;Logistics;27679;14;2491;Pending
+2023-02-26;LogiTrans;Packaging;Finance;43028;27;1721;Paid
+2023-02-04;NovaTrade;Office Supplies;HR;42037;17;5044;Paid
+2023-10-04;NovaTrade;Transportation;IT;46142;24;923;Paid
+2024-09-09;LogiTrans;Transportation;Finance;35976;28;4317;Pending
+2023-01-09;EuroParts;Raw Materials;Finance;2238;24;201;Overdue
+2023-08-24;EquipMax;Transportation;HR;7724;6;386;Overdue
+2024-06-05;LogiTrans;Safety Equipment;Production;35685;21;3925;Overdue
+2024-10-20;EuroParts;Safety Equipment;HR;40074;26;2004;Pending
+2024-02-12;TechSource;Packaging;IT;21411;3;428;Pending
+2023-10-11;NovaTrade;Safety Equipment;IT;5674;18;113;Overdue
+2023-07-19;EquipMax;Maintenance;Production;16144;14;969;Overdue
+2023-05-07;OfficePlus;IT Equipment;IT;6888;8;207;Pending
+2024-06-12;LogiTrans;Safety Equipment;Production;19361;23;387;Overdue
+2023-02-06;PrimeSupply;Transportation;IT;25176;18;1762;Overdue
+2023-06-19;Global Metals;Transportation;Finance;44696;12;894;Paid
+2023-03-16;Global Metals;Packaging;Operations;3557;12;107;Paid
+2024-01-09;Alpha Industrial;Safety Equipment;Logistics;28601;26;2288;Paid
+2023-10-22;OfficePlus;Machinery;Production;27624;9;2486;Paid
+2023-09-09;Global Metals;Machinery;Production;47096;14;2355;Overdue
+2024-03-26;Global Metals;Machinery;IT;49291;19;4436;Pending
+2024-06-14;PrimeSupply;IT Equipment;Operations;6555;4;590;Paid
+2023-07-28;LogiTrans;Maintenance;IT;17626;24;176;Paid
+2023-04-06;PrimeSupply;Office Supplies;HR;38509;9;3466;Paid
+2024-07-05;PackPro;IT Equipment;Logistics;23084;13;1385;Pending
+2023-11-12;OfficePlus;Safety Equipment;Finance;39404;14;1970;Paid
