@@ -31,14 +31,17 @@ The dataset contains procurement transactions with the following fields:
 
 ### 1. Top Suppliers by Procurement Spend
 Identified suppliers with the highest procurement expenditure.
+
 ![Top Suppliers](screenshots/supplier_spend.png)
 
 ### 2. Procurement Spend by Category
 Analyzed spending across procurement categories such as Raw Materials, IT Equipment, Transportation, Packaging, and Office Supplies.
+
 ![Category Spend](screenshots/category_spend.png)
 
 ### 3. Procurement Spend by Department
 Compared procurement activity across departments including Production, Logistics, Finance, HR, IT, and Operations.
+
 ![Department Spend](screenshots/department_spend.png)
 
 ### 4. Average Lead Time by Supplier
@@ -48,6 +51,7 @@ Evaluated supplier efficiency by measuring average lead times.
 
 ### 5. Savings Achieved by Supplier
 Measured supplier contribution to procurement savings.
+
 ![Savings](screenshots/savings.png)
 
 ### 6. Payment Status Analysis
@@ -55,6 +59,7 @@ Analyzed procurement orders by payment status:
 - Paid
 - Pending
 - Overdue
+
 ![Payment Status](screenshots/payment_status.png)
 
 ## Key Findings
