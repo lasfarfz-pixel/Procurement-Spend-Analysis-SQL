@@ -3,6 +3,7 @@
 ## Overview
 
 This project analyzes procurement spending data using PostgreSQL and SQL queries. The objective is to identify spending patterns, evaluate supplier performance, monitor lead times, measure savings achieved, and assess payment status distribution to support procurement decision-making.
+
 The analysis was performed using PostgreSQL and DBeaver, demonstrating SQL skills commonly used in procurement, supply chain, and business analytics roles.
 
 
